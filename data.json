@@ -1,0 +1,2159 @@
+{
+    "dimension": [{
+        "cid": 1,
+        "size": "1/4",
+        "units": "CTS",
+        "description": "1/4 CTS 0.062 (1.58)"
+    }, {
+        "cid": 2,
+        "size": "3/8",
+        "units": "CTS",
+        "description": "3/8 CTS 0.062 (1.58)"
+    }, {
+        "cid": 3,
+        "size": "1/2",
+        "units": "CTS",
+        "description": "1/2 CTS 0.062 (1.58)"
+    }, {
+        "cid": 4,
+        "size": "1/2",
+        "units": "CTS",
+        "description": "1/2 CTS 0.090 (2.27)"
+    }, {
+        "cid": 5,
+        "size": "1/2",
+        "units": "CTS",
+        "description": "1/2 CTS 0.104 (2.64)"
+    }, {
+        "cid": 6,
+        "size": "3/4",
+        "units": "CTS",
+        "description": "3/4 CTS 0.062 (1.58)"
+    }, {
+        "cid": 7,
+        "size": "3/4",
+        "units": "CTS",
+        "description": "3/4 CTS 0.077 (1.95)"
+    }, {
+        "cid": 8,
+        "size": "3/4",
+        "units": "CTS",
+        "description": "3/4 CTS 0.090 (2.27)"
+    }, {
+        "cid": 9,
+        "size": "1",
+        "units": "CTS",
+        "description": "1 CTS 0.062 (1.58)"
+    }, {
+        "cid": 10,
+        "size": "1",
+        "units": "CTS",
+        "description": "1 CTS 0.090 (2.27)"
+    }, {
+        "cid": 11,
+        "size": "1",
+        "units": "CTS",
+        "description": "1 CTS 0.099 (2.51)"
+    }, {
+        "cid": 12,
+        "size": "1",
+        "units": "CTS",
+        "description": "1 CTS 0.101 (2.56)"
+    }, {
+        "cid": 13,
+        "size": "1",
+        "units": "CTS",
+        "description": "1 CTS 0.121 (3.07)"
+    }, {
+        "cid": 14,
+        "size": "1 1/4",
+        "units": "CTS",
+        "description": "1 1/4 CTS 0.062 (1.58)"
+    }, {
+        "cid": 15,
+        "size": "1 1/4",
+        "units": "CTS",
+        "description": "1 1/4 CTS 0.090 (2.27)"
+    }, {
+        "cid": 16,
+        "size": "1 1/4",
+        "units": "CTS",
+        "description": "1 1/4 CTS 0.121 (3.07)"
+    }, {
+        "cid": 17,
+        "size": "1 3/4",
+        "units": "CTS",
+        "description": "1 3/4 CTS 0.062 (1.58)"
+    }, {
+        "cid": 18,
+        "size": "1/2",
+        "units": "IPS",
+        "description": "1/2 IPS  DR 9.3 0.090 (2.29)"
+    }, {
+        "cid": 19,
+        "size": "1/2",
+        "units": "IPS",
+        "description": "1/2 IPS  DR 11 0.076 (1.93)"
+    }, {
+        "cid": 20,
+        "size": "3/4",
+        "units": "IPS",
+        "description": "3/4 IPS  DR 11 0.095 (2.41)"
+    }, {
+        "cid": 21,
+        "size": "3/4",
+        "units": "IPS",
+        "description": "3/4 IPS  DR D 0.090 (2.29)"
+    }, {
+        "cid": 22,
+        "size": "1",
+        "units": "IPS",
+        "description": "1 IPS  DR 9.33 0.140 (3.56)"
+    }, {
+        "cid": 23,
+        "size": "1",
+        "units": "IPS",
+        "description": "1 IPS  DR 9.9 0.133 (3.38)"
+    }, {
+        "cid": 24,
+        "size": "1",
+        "units": "IPS",
+        "description": "1 IPS  DR 11 0.120 (3.05)"
+    }, {
+        "cid": 25,
+        "size": "1",
+        "units": "IPS",
+        "description": "1 IPS  DR 13.5 0.097 (2.46)"
+    }, {
+        "cid": 26,
+        "size": "1",
+        "units": "IPS",
+        "description": "1 IPS  DR D 0.090 (2.29)"
+    }, {
+        "cid": 27,
+        "size": "1 1/4",
+        "units": "IPS",
+        "description": "1 1/4 IPS  DR 9.33 0.178 (4.52)"
+    }, {
+        "cid": 28,
+        "size": "1 1/4",
+        "units": "IPS",
+        "description": "1 1/4 IPS  DR 10 0.166 (4.22)"
+    }, {
+        "cid": 29,
+        "size": "1 1/4",
+        "units": "IPS",
+        "description": "1 1/4 IPS  DR 11 0.151 (3.84)"
+    }, {
+        "cid": 30,
+        "size": "1 1/4",
+        "units": "IPS",
+        "description": "1 1/4 IPS  DR 13.5 0.123 (3.12)"
+    }, {
+        "cid": 31,
+        "size": "1 1/4",
+        "units": "IPS",
+        "description": "1 1/4 IPS  DR 17 0.098 (2.49)"
+    }, {
+        "cid": 32,
+        "size": "1 1/4",
+        "units": "IPS",
+        "description": "1 1/4 IPS  DR D 0.090 (2.29)"
+    }, {
+        "cid": 33,
+        "size": "1 1/2",
+        "units": "IPS",
+        "description": "1 1/2 IPS  DR 11 0.173 (4.39)"
+    }, {
+        "cid": 34,
+        "size": "1 1/2",
+        "units": "IPS",
+        "description": "1 1/2 IPS  DR 13.5 0.141 (3.58)"
+    }, {
+        "cid": 35,
+        "size": "1 1/2",
+        "units": "IPS",
+        "description": "1 1/2 IPS  DR 17 0.112 (2.85)"
+    }, {
+        "cid": 36,
+        "size": "1 1/2",
+        "units": "IPS",
+        "description": "1 1/2 IPS  DR D 0.090 (2.29)"
+    }, {
+        "cid": 37,
+        "size": "2",
+        "units": "IPS",
+        "description": "2 IPS  DR 9.33 0.255 (6.48)"
+    }, {
+        "cid": 38,
+        "size": "2",
+        "units": "IPS",
+        "description": "2 IPS  DR 11 0.216 (5.59)"
+    }, {
+        "cid": 39,
+        "size": "2",
+        "units": "IPS",
+        "description": "2 IPS  DR 13.5 0.176 (4.47)"
+    }, {
+        "cid": 40,
+        "size": "3",
+        "units": "IPS",
+        "description": "3 IPS  DR 11 0.318 (8.08)"
+    }, {
+        "cid": 41,
+        "size": "3",
+        "units": "IPS",
+        "description": "3 IPS  DR 11.5 0.304 (7.72)"
+    }, {
+        "cid": 42,
+        "size": "3",
+        "units": "IPS",
+        "description": "3 IPS  DR 13.5 0.259 (6.58)"
+    }, {
+        "cid": 43,
+        "size": "4",
+        "units": "IPS",
+        "description": "4 IPS  DR 9.33 0.482 (12.24)"
+    }, {
+        "cid": 44,
+        "size": "4",
+        "units": "IPS",
+        "description": "4 IPS  DR 11 0.409 (10.39)"
+    }, {
+        "cid": 45,
+        "size": "4",
+        "units": "IPS",
+        "description": "4 IPS  DR 11.5 0.391 (9.93)"
+    }, {
+        "cid": 46,
+        "size": "4",
+        "units": "IPS",
+        "description": "4 IPS  DR 13.5 0.333 (8.46)"
+    }, {
+        "cid": 47,
+        "size": "4",
+        "units": "IPS",
+        "description": "4 IPS  DR 15.5 0.290 (7.37)"
+    }, {
+        "cid": 48,
+        "size": "4",
+        "units": "IPS",
+        "description": "4 IPS  DR 17 0.265 (6.73)"
+    }, {
+        "cid": 49,
+        "size": "6",
+        "units": "IPS",
+        "description": "6 IPS  DR 11 0.602 (15.29)"
+    }, {
+        "cid": 50,
+        "size": "6",
+        "units": "IPS",
+        "description": "6 IPS  DR 11.5 0.576 (14.63)"
+    }, {
+        "cid": 51,
+        "size": "6",
+        "units": "IPS",
+        "description": "6 IPS  DR 13.5 0.491 (12.47)"
+    }, {
+        "cid": 52,
+        "size": "6",
+        "units": "IPS",
+        "description": "6 IPS  DR 17 0.390 (9.91)"
+    }, {
+        "cid": 53,
+        "size": "6",
+        "units": "IPS",
+        "description": "6 IPS  DR 21 0.315 (8.00)"
+    }, {
+        "cid": 54,
+        "size": "8",
+        "units": "IPS",
+        "description": "8 IPS  DR 11 0.784 (19.91)"
+    }, {
+        "cid": 55,
+        "size": "8",
+        "units": "IPS",
+        "description": "8 IPS  DR 11.5 0.750 (19.05)"
+    }, {
+        "cid": 56,
+        "size": "8",
+        "units": "IPS",
+        "description": "8 IPS  DR 13.5 0.639 (16.23)"
+    }, {
+        "cid": 57,
+        "size": "8",
+        "units": "IPS",
+        "description": "8 IPS  DR 17 0.507 (12.90)"
+    }, {
+        "cid": 58,
+        "size": "8",
+        "units": "IPS",
+        "description": "8 IPS  DR 21 0.411 (10.44)"
+    }, {
+        "cid": 59,
+        "size": "10",
+        "units": "IPS",
+        "description": "10 IPS  DR 11 0.977 (24.82)"
+    }, {
+        "cid": 60,
+        "size": "10",
+        "units": "IPS",
+        "description": "10 IPS  DR 11.5 0.935 (23.75)"
+    }, {
+        "cid": 61,
+        "size": "10",
+        "units": "IPS",
+        "description": "10 IPS  DR 13.5 0.796 (20.22)"
+    }, {
+        "cid": 62,
+        "size": "10",
+        "units": "IPS",
+        "description": "10 IPS  DR 17 0.632 (16.05)"
+    }, {
+        "cid": 63,
+        "size": "10",
+        "units": "IPS",
+        "description": "10 IPS  DR 21 0.512 (13.00)"
+    }, {
+        "cid": 64,
+        "size": "12",
+        "units": "IPS",
+        "description": "12 IPS  DR 11 1.159 (29.44)"
+    }, {
+        "cid": 65,
+        "size": "12",
+        "units": "IPS",
+        "description": "12 IPS  DR 11.5 1.109 (28.17)"
+    }, {
+        "cid": 66,
+        "size": "12",
+        "units": "IPS",
+        "description": "12 IPS  DR 13.5 0.994 (23.98)"
+    }, {
+        "cid": 67,
+        "size": "12",
+        "units": "IPS",
+        "description": "12 IPS  DR 17 0.750 (19.05)"
+    }, {
+        "cid": 68,
+        "size": "12",
+        "units": "IPS",
+        "description": "12 IPS  DR 21 0.607 (15.42)"
+    }, {
+        "cid": 69,
+        "size": "14",
+        "units": "IPS",
+        "description": "14 IPS  DR 11 1.273 (32.33)"
+    }, {
+        "cid": 70,
+        "size": "14",
+        "units": "IPS",
+        "description": "14 IPS  DR 13.5 1.037 (26.34)"
+    }, {
+        "cid": 71,
+        "size": "14",
+        "units": "IPS",
+        "description": "14 IPS  DR 17 0.824 (20.93)"
+    }, {
+        "cid": 72,
+        "size": "14",
+        "units": "IPS",
+        "description": "14 IPS  DR 21 0.667 (16.94)"
+    }, {
+        "cid": 73,
+        "size": "16",
+        "units": "IPS",
+        "description": "16 IPS  DR 11 1.455 (36.96)"
+    }, {
+        "cid": 74,
+        "size": "16",
+        "units": "IPS",
+        "description": "16 IPS  DR 13.5 1.185 (30.10)"
+    }, {
+        "cid": 75,
+        "size": "16",
+        "units": "IPS",
+        "description": "16 IPS  DR 17 0.941 (23.90)"
+    }, {
+        "cid": 76,
+        "size": "16",
+        "units": "IPS",
+        "description": "16 IPS  DR 21 0.762 (19.35)"
+    }, {
+        "cid": 77,
+        "size": "18",
+        "units": "IPS",
+        "description": "18 IPS  DR 11 1.636 (41.55)"
+    }, {
+        "cid": 78,
+        "size": "18",
+        "units": "IPS",
+        "description": "18 IPS  DR 13.5 1.333 (33.86)"
+    }, {
+        "cid": 79,
+        "size": "18",
+        "units": "IPS",
+        "description": "18 IPS  DR 17 1.059 (26.90)"
+    }, {
+        "cid": 80,
+        "size": "18",
+        "units": "IPS",
+        "description": "18 IPS  DR 21 0.857 (21.77)"
+    }, {
+        "cid": 81,
+        "size": "20",
+        "units": "IPS",
+        "description": "20 IPS  DR 11 1.818 (46.18)"
+    }, {
+        "cid": 82,
+        "size": "20",
+        "units": "IPS",
+        "description": "20 IPS  DR 13.5 1.481 (37.62)"
+    }, {
+        "cid": 83,
+        "size": "20",
+        "units": "IPS",
+        "description": "20 IPS  DR 17 1.176 (29.87)"
+    }, {
+        "cid": 84,
+        "size": "20",
+        "units": "IPS",
+        "description": "20 IPS  DR 21 0.952 (24.18)"
+    }, {
+        "cid": 85,
+        "size": "22",
+        "units": "IPS",
+        "description": "22 IPS  DR 11 2.000 (50.8)"
+    }, {
+        "cid": 86,
+        "size": "22",
+        "units": "IPS",
+        "description": "22 IPS  DR 13.5 1.630 (41.40)"
+    }, {
+        "cid": 87,
+        "size": "22",
+        "units": "IPS",
+        "description": "22 IPS  DR 17 1.294 (32.87)"
+    }, {
+        "cid": 88,
+        "size": "22",
+        "units": "IPS",
+        "description": "22 IPS  DR 21 1.048 (26.62)"
+    }, {
+        "cid": 89,
+        "size": "24",
+        "units": "IPS",
+        "description": "24 IPS  DR 11 2.182 (55.43)"
+    }, {
+        "cid": 90,
+        "size": "24",
+        "units": "IPS",
+        "description": "24 IPS  DR 13.5 1.778 (45.16)"
+    }, {
+        "cid": 91,
+        "size": "24",
+        "units": "IPS",
+        "description": "24 IPS  DR 17 1.412 (35.86)"
+    }, {
+        "cid": 92,
+        "size": "24",
+        "units": "IPS",
+        "description": "24 IPS  DR 21 1.143 (29.03)"
+    }, {
+        "cid": 93,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 94,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 95,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 96,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 97,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 98,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 99,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 100,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 101,
+        "size": "Â½",
+        "units": "MPT",
+        "description": "Â½ MPT "
+    }, {
+        "cid": 102,
+        "size": "Â¾ ",
+        "units": "MPT",
+        "description": "Â¾  MPT "
+    }, {
+        "cid": 103,
+        "size": "1",
+        "units": "MPT",
+        "description": "1 MPT "
+    }, {
+        "cid": 104,
+        "size": "1 Â¼",
+        "units": "MPT",
+        "description": "1 Â¼ MPT "
+    }, {
+        "cid": 105,
+        "size": "1 Â½",
+        "units": "MPT",
+        "description": "1 Â½ MPT "
+    }, {
+        "cid": 106,
+        "size": "2",
+        "units": "MPT",
+        "description": "2 MPT "
+    }, {
+        "cid": 107,
+        "size": "3",
+        "units": "MPT",
+        "description": "3 MPT "
+    }, {
+        "cid": 108,
+        "size": "4",
+        "units": "MPT",
+        "description": "4 MPT "
+    }, {
+        "cid": 109,
+        "size": "6",
+        "units": "MPT",
+        "description": "6 MPT "
+    }, {
+        "cid": 110,
+        "size": "8",
+        "units": "MPT",
+        "description": "8 MPT "
+    }, {
+        "cid": 111,
+        "size": "10",
+        "units": "MPT",
+        "description": "10 MPT "
+    }, {
+        "cid": 112,
+        "size": "12",
+        "units": "MPT",
+        "description": "12 MPT "
+    }, {
+        "cid": 113,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 114,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 115,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 116,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 117,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 118,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 119,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 120,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 121,
+        "size": "Â½",
+        "units": "FPT",
+        "description": "Â½ FPT "
+    }, {
+        "cid": 122,
+        "size": "Â¾",
+        "units": "FPT",
+        "description": "Â¾ FPT "
+    }, {
+        "cid": 123,
+        "size": "1",
+        "units": "FPT",
+        "description": "1 FPT "
+    }, {
+        "cid": 124,
+        "size": "1 Â¼",
+        "units": "FPT",
+        "description": "1 Â¼ FPT "
+    }, {
+        "cid": 125,
+        "size": "1 Â½",
+        "units": "FPT",
+        "description": "1 Â½ FPT "
+    }, {
+        "cid": 126,
+        "size": "2",
+        "units": "FPT",
+        "description": "2 FPT "
+    }, {
+        "cid": 127,
+        "size": "3",
+        "units": "FPT",
+        "description": "3 FPT "
+    }, {
+        "cid": 128,
+        "size": "4",
+        "units": "FPT",
+        "description": "4 FPT "
+    }, {
+        "cid": 129,
+        "size": "6",
+        "units": "FPT",
+        "description": "6 FPT "
+    }, {
+        "cid": 130,
+        "size": "8",
+        "units": "FPT",
+        "description": "8 FPT "
+    }, {
+        "cid": 131,
+        "size": "10",
+        "units": "FPT",
+        "description": "10 FPT "
+    }, {
+        "cid": 132,
+        "size": "12",
+        "units": "FPT",
+        "description": "12 FPT "
+    }, {
+        "cid": 133,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 134,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 135,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 136,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 137,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 138,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 139,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 140,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 141,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 142,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 143,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 144,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 145,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 146,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 147,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 148,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 149,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 150,
+        "size": "",
+        "units": "",
+        "description": "  "
+    }, {
+        "cid": 151,
+        "size": "1/8",
+        "units": "NPS",
+        "description": "1/8 NPS 0.068 (1.73)"
+    }, {
+        "cid": 152,
+        "size": "1/8",
+        "units": "NPS",
+        "description": "1/8 NPS 0.095 (2.41)"
+    }, {
+        "cid": 153,
+        "size": "1/4",
+        "units": "NPS",
+        "description": "1/4 NPS 0.088 (2.24)"
+    }, {
+        "cid": 154,
+        "size": "1/4",
+        "units": "NPS",
+        "description": "1/4 NPS 0.119 (3.02)"
+    }, {
+        "cid": 155,
+        "size": "3/8",
+        "units": "NPS",
+        "description": "3/8 NPS 0.091 (2.31)"
+    }, {
+        "cid": 156,
+        "size": "3/8",
+        "units": "NPS",
+        "description": "3/8 NPS 0.126 (3.20)"
+    }, {
+        "cid": 157,
+        "size": "1/2",
+        "units": "NPS",
+        "description": "1/2 NPS 0.109 (2.77)"
+    }, {
+        "cid": 158,
+        "size": "1/2",
+        "units": "NPS",
+        "description": "1/2 NPS 0.147 (3.73)"
+    }, {
+        "cid": 159,
+        "size": "3/4",
+        "units": "NPS",
+        "description": "3/4 NPS 0.113 (2.87)"
+    }, {
+        "cid": 160,
+        "size": "3/4",
+        "units": "NPS",
+        "description": "3/4 NPS 0.154 (3.91)"
+    }, {
+        "cid": 161,
+        "size": "1",
+        "units": "NPS",
+        "description": "1 NPS 0.133 (2.87)"
+    }, {
+        "cid": 162,
+        "size": "1",
+        "units": "NPS",
+        "description": "1 NPS 0.179 (4.55)"
+    }, {
+        "cid": 163,
+        "size": "1 1/4",
+        "units": "NPS",
+        "description": "1 1/4 NPS 0.140 (3.56)"
+    }, {
+        "cid": 164,
+        "size": "1 1/4",
+        "units": "NPS",
+        "description": "1 1/4 NPS 0.191 (4.85)"
+    }, {
+        "cid": 165,
+        "size": "1 1/2",
+        "units": "NPS",
+        "description": "1 1/2 NPS 0.145 (3.68)"
+    }, {
+        "cid": 166,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 167,
+        "size": "2",
+        "units": "NPS",
+        "description": "2 NPS 0.154 (3.91)"
+    }, {
+        "cid": 168,
+        "size": "2",
+        "units": "NPS",
+        "description": "2 NPS 0.218 (5.54)"
+    }, {
+        "cid": 169,
+        "size": "3",
+        "units": "NPS",
+        "description": "3 NPS  0.188 (4.78) "
+    }, {
+        "cid": 170,
+        "size": "3",
+        "units": "NPS",
+        "description": "3 NPS 0.216 (5.49)"
+    }, {
+        "cid": 171,
+        "size": "4",
+        "units": "NPS",
+        "description": "4 NPS 0.156 (3.91)"
+    }, {
+        "cid": 172,
+        "size": "4",
+        "units": "NPS",
+        "description": "4 NPS 0.188 (4.78)"
+    }, {
+        "cid": 173,
+        "size": "4",
+        "units": "NPS",
+        "description": "4 NPS 0.237 (6.02)"
+    }, {
+        "cid": 174,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 175,
+        "size": "6",
+        "units": "NPS",
+        "description": "6 NPS 0.188 (4.78)"
+    }, {
+        "cid": 176,
+        "size": "6",
+        "units": "NPS",
+        "description": "6 NPS 0.219 (5.56)"
+    }, {
+        "cid": 177,
+        "size": "6",
+        "units": "NPS",
+        "description": "6 NPS 0.250 (6.35)"
+    }, {
+        "cid": 178,
+        "size": "6",
+        "units": "NPS",
+        "description": "6 NPS 0.280 (7.11)"
+    }, {
+        "cid": 179,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 180,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 181,
+        "size": "8",
+        "units": "NPS",
+        "description": "8 NPS 0.188 (4.78)"
+    }, {
+        "cid": 182,
+        "size": "8",
+        "units": "NPS",
+        "description": "8 NPS 0.219 (5.56)"
+    }, {
+        "cid": 183,
+        "size": "8",
+        "units": "NPS",
+        "description": "8 NPS 0.250 (6.35)"
+    }, {
+        "cid": 184,
+        "size": "8",
+        "units": "NPS",
+        "description": "8 NPS 0.322 (8.18)"
+    }, {
+        "cid": 185,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 186,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 187,
+        "size": "10",
+        "units": "NPS",
+        "description": "10 NPS 0.188 (4.78)"
+    }, {
+        "cid": 188,
+        "size": "10",
+        "units": "NPS",
+        "description": "10 NPS 0.203 (5.16)"
+    }, {
+        "cid": 189,
+        "size": "10",
+        "units": "NPS",
+        "description": "10 NPS 0.219 (5.56)"
+    }, {
+        "cid": 190,
+        "size": "10",
+        "units": "NPS",
+        "description": "10 NPS 0.279 (7.09)"
+    }, {
+        "cid": 191,
+        "size": "10",
+        "units": "NPS",
+        "description": "10 NPS 0.365 (9.27)"
+    }, {
+        "cid": 192,
+        "size": "",
+        "units": "",
+        "description": ""
+    }, {
+        "cid": 193,
+        "size": "12",
+        "units": "NPS",
+        "description": "12 NPS 0.219 (5.56)"
+    }, {
+        "cid": 194,
+        "size": "12",
+        "units": "NPS",
+        "description": "12 NPS 0.250 (6.35)"
+    }, {
+        "cid": 195,
+        "size": "12",
+        "units": "NPS",
+        "description": "12 NPS 0.312 (7.92)"
+    }, {
+        "cid": 196,
+        "size": "12",
+        "units": "NPS",
+        "description": "12 NPS 0.375 (9.52)"
+    }, {
+        "cid": 197,
+        "size": "14",
+        "units": "NPS",
+        "description": "14 NPS 0.209 (5.30)"
+    }, {
+        "cid": 198,
+        "size": "14",
+        "units": "NPS",
+        "description": "14 NPS 0.250 (6.35)"
+    }, {
+        "cid": 199,
+        "size": "14",
+        "units": "NPS",
+        "description": "14 NPS 0.375 (9.53)"
+    }, {
+        "cid": 200,
+        "size": "14",
+        "units": "NPS",
+        "description": "14 NPS 0.625 (15.88)"
+    }, {
+        "cid": 201,
+        "size": "14",
+        "units": "NPS",
+        "description": "14 NPS 0.687 (17.45)"
+    }, {
+        "cid": 202,
+        "size": "14",
+        "units": "NPS",
+        "description": "14 NPS 0.938 (23.83)"
+    }, {
+        "cid": 203,
+        "size": "15",
+        "units": "NPS",
+        "description": "15 NPS 0.209 (5.30)"
+    }, {
+        "cid": 204,
+        "size": "15",
+        "units": "NPS",
+        "description": "15 NPS 0.250 (6.35)"
+    }, {
+        "cid": 205,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.188 (4.78)"
+    }, {
+        "cid": 206,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.219 (5.56)"
+    }, {
+        "cid": 207,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.225 (5.72)"
+    }, {
+        "cid": 208,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.243 (6.17)"
+    }, {
+        "cid": 209,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.250 (6.35)"
+    }, {
+        "cid": 210,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.260 (6.60)"
+    }, {
+        "cid": 211,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.270 (6.86)"
+    }, {
+        "cid": 212,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.280 (7.11)"
+    }, {
+        "cid": 213,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.312 (7.93)"
+    }, {
+        "cid": 214,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.325 (8.26)"
+    }, {
+        "cid": 215,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.345 (8.76)"
+    }, {
+        "cid": 216,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.357 (9.07)"
+    }, {
+        "cid": 217,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.365 (9.27)"
+    }, {
+        "cid": 218,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.375 (9.53)"
+    }, {
+        "cid": 219,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.406 (10.31)"
+    }, {
+        "cid": 220,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.500 (12.70)"
+    }, {
+        "cid": 221,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.530 (13.46)"
+    }, {
+        "cid": 222,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.550 (13.97)"
+    }, {
+        "cid": 223,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.560 (14.22)"
+    }, {
+        "cid": 224,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.625 (15.88)"
+    }, {
+        "cid": 225,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.656 (16.66)"
+    }, {
+        "cid": 226,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 0.843 (21.41)"
+    }, {
+        "cid": 227,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 1.039 (26.39)"
+    }, {
+        "cid": 228,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 1.125 (28.58)"
+    }, {
+        "cid": 229,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 1.218 (30.94)"
+    }, {
+        "cid": 230,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 1.438 (36.53)"
+    }, {
+        "cid": 231,
+        "size": "16",
+        "units": "NPS",
+        "description": "16 NPS 1.594 (40.49)"
+    }, {
+        "cid": 232,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 0.219 (5.56)"
+    }, {
+        "cid": 233,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 0.250 (6.35)"
+    }, {
+        "cid": 234,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 0.312 (7.93)"
+    }, {
+        "cid": 235,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 0.344 (8.73)"
+    }, {
+        "cid": 236,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 0.375 (9.53)"
+    }, {
+        "cid": 237,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 0.406 (10.31)"
+    }, {
+        "cid": 238,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 0.500 (12.70)"
+    }, {
+        "cid": 239,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 0.750 (19.05)"
+    }, {
+        "cid": 240,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 0.938 (23.83)"
+    }, {
+        "cid": 241,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 1.125 (28.58)"
+    }, {
+        "cid": 242,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 1.156 (29.36)"
+    }, {
+        "cid": 243,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 1.375 (34.93)"
+    }, {
+        "cid": 244,
+        "size": "18",
+        "units": "NPS",
+        "description": "18 NPS 2.100 (53.34)"
+    }, {
+        "cid": 245,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.219 (5.56)"
+    }, {
+        "cid": 246,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.234 (5.94)"
+    }, {
+        "cid": 247,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.250 (6.35)"
+    }, {
+        "cid": 248,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.265 (6.73)"
+    }, {
+        "cid": 249,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.281 (7.14)"
+    }, {
+        "cid": 250,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.288 (7.32)"
+    }, {
+        "cid": 251,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.312 (7.93)"
+    }, {
+        "cid": 252,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.328 (8.33)"
+    }, {
+        "cid": 253,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.344 (8.74)"
+    }, {
+        "cid": 254,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.375 (9.53)"
+    }, {
+        "cid": 255,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.406 (10.31)"
+    }, {
+        "cid": 256,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.438 (11.13)"
+    }, {
+        "cid": 257,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.469 (11.91)"
+    }, {
+        "cid": 258,
+        "size": "20",
+        "units": "NPS",
+        "description": "20 NPS 0.500 (12.70)"
+    }, {
+        "cid": 259,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.219 (5.56)"
+    }, {
+        "cid": 260,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.237 (6.02)"
+    }, {
+        "cid": 261,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.250 (6.35)"
+    }, {
+        "cid": 262,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.281 (7.14)"
+    }, {
+        "cid": 263,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.312 (7.93)"
+    }, {
+        "cid": 264,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.344 (8.74)"
+    }, {
+        "cid": 265,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.371 (9.42)"
+    }, {
+        "cid": 266,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.375 (9.53)"
+    }, {
+        "cid": 267,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.432 (10.97)"
+    }, {
+        "cid": 268,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.438 (11.13)"
+    }, {
+        "cid": 269,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.500 (12.70)"
+    }, {
+        "cid": 270,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.562 (14.28)"
+    }, {
+        "cid": 271,
+        "size": "22",
+        "units": "NPS",
+        "description": "22 NPS 0.625 (15.88)"
+    }, {
+        "cid": 272,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.250 (6.35)"
+    }, {
+        "cid": 273,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.265 (6.73)"
+    }, {
+        "cid": 274,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.271 (6.88)"
+    }, {
+        "cid": 275,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.281 (7.14)"
+    }, {
+        "cid": 276,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.289 (7.34)"
+    }, {
+        "cid": 277,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.307 (7.80)"
+    }, {
+        "cid": 278,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.312 (7.93)"
+    }, {
+        "cid": 279,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.320 (8.13)"
+    }, {
+        "cid": 280,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.344 (8.74)"
+    }, {
+        "cid": 281,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.375 (9.53)"
+    }, {
+        "cid": 282,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.382 (9.70)"
+    }, {
+        "cid": 283,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.391 (9.93)"
+    }, {
+        "cid": 284,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.406 (10.31)"
+    }, {
+        "cid": 285,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.500 (12.70)"
+    }, {
+        "cid": 286,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.562 (14.28)"
+    }, {
+        "cid": 287,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 0.625 (15.88)"
+    }, {
+        "cid": 288,
+        "size": "24",
+        "units": "NPS",
+        "description": "24 NPS 1.531 (38.88)"
+    }, {
+        "cid": 289,
+        "size": "26",
+        "units": "NPS",
+        "description": "26 NPS 0.250 (6.35)"
+    }, {
+        "cid": 290,
+        "size": "26",
+        "units": "NPS",
+        "description": "26 NPS 0.264 (6.71)"
+    }, {
+        "cid": 291,
+        "size": "26",
+        "units": "NPS",
+        "description": "26 NPS 0.278 (7.06)"
+    }, {
+        "cid": 292,
+        "size": "26",
+        "units": "NPS",
+        "description": "26 NPS 0.281 (7.14)"
+    }, {
+        "cid": 293,
+        "size": "26",
+        "units": "NPS",
+        "description": "26 NPS 0.291 (7.39)"
+    }, {
+        "cid": 294,
+        "size": "26",
+        "units": "NPS",
+        "description": "26 NPS 0.312 (7.93)"
+    }, {
+        "cid": 295,
+        "size": "26",
+        "units": "NPS",
+        "description": "26 NPS 0.344 (8.74)"
+    }, {
+        "cid": 296,
+        "size": "26",
+        "units": "NPS",
+        "description": "26 NPS 0.375 (9.53)"
+    }, {
+        "cid": 297,
+        "size": "26",
+        "units": "NPS",
+        "description": "26 NPS 0.438 (11.13)"
+    }, {
+        "cid": 298,
+        "size": "26",
+        "units": "NPS",
+        "description": "26 NPS 0.500 (12.70)"
+    }, {
+        "cid": 299,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.250 (6.35)"
+    }, {
+        "cid": 300,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.281 (7.14)"
+    }, {
+        "cid": 301,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.287 (7.29)"
+    }, {
+        "cid": 302,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.312 (7.93)"
+    }, {
+        "cid": 303,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.328 (8.33)"
+    }, {
+        "cid": 304,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.337 (8.56)"
+    }, {
+        "cid": 305,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.344 (8.74)"
+    }, {
+        "cid": 306,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.350 (8.89)"
+    }, {
+        "cid": 307,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.365 (9.27)"
+    }, {
+        "cid": 308,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.375 (9.53)"
+    }, {
+        "cid": 309,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.391 (9.93)"
+    }, {
+        "cid": 310,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.406 (10.31)"
+    }, {
+        "cid": 311,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.417 (10.59)"
+    }, {
+        "cid": 312,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.421 (10.69)"
+    }, {
+        "cid": 313,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.428 (10.87)"
+    }, {
+        "cid": 314,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.430 (10.92)"
+    }, {
+        "cid": 315,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.437 (11.10)"
+    }, {
+        "cid": 316,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.438 (11.13)"
+    }, {
+        "cid": 317,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.450 (11.43)"
+    }, {
+        "cid": 318,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.469 (11.91)"
+    }, {
+        "cid": 319,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.500 (12.70)"
+    }, {
+        "cid": 320,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.562 (14.28)"
+    }, {
+        "cid": 321,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.563 (14.30)"
+    }, {
+        "cid": 322,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.593 (15.06)"
+    }, {
+        "cid": 323,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.625 (15.88)"
+    }, {
+        "cid": 324,
+        "size": "30",
+        "units": "NPS",
+        "description": "30 NPS 0.750 (19.05)"
+    }, {
+        "cid": 325,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.375 (9.53)"
+    }, {
+        "cid": 326,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.416 (10.57)"
+    }, {
+        "cid": 327,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.438 (11.13)"
+    }, {
+        "cid": 328,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.469 (11.91)"
+    }, {
+        "cid": 329,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.500 (12.70)"
+    }, {
+        "cid": 330,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.524 (13.31)"
+    }, {
+        "cid": 331,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.562 (14.28)"
+    }, {
+        "cid": 332,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.566 (14.38)"
+    }, {
+        "cid": 333,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.600 (15.24)"
+    }, {
+        "cid": 334,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.628 (15.95)"
+    }, {
+        "cid": 335,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.750 (19.05)"
+    }, {
+        "cid": 336,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.754 (19.15)"
+    }, {
+        "cid": 337,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 0.875 (22.23)"
+    }, {
+        "cid": 338,
+        "size": "32",
+        "units": "NPS",
+        "description": "32 NPS 1.250 (31.75)"
+    }, {
+        "cid": 339,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.312 (7.92)"
+    }, {
+        "cid": 340,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.322 (8.18)"
+    }, {
+        "cid": 341,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.344 (8.74)"
+    }, {
+        "cid": 342,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.375 (9.53)"
+    }, {
+        "cid": 343,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.391 (9.93)"
+    }, {
+        "cid": 344,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.406 (10.31)"
+    }, {
+        "cid": 345,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.422 (10.72)"
+    }, {
+        "cid": 346,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.428 (10.87)"
+    }, {
+        "cid": 347,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.438 (11.13)"
+    }, {
+        "cid": 348,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.453 (11.51)"
+    }, {
+        "cid": 349,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.469 (11.91)"
+    }, {
+        "cid": 350,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.484 (12.29)"
+    }, {
+        "cid": 351,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.500 (12.70)"
+    }, {
+        "cid": 352,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.525 (13.33)"
+    }, {
+        "cid": 353,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.562 (14.28)"
+    }, {
+        "cid": 354,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.594 (15.09)"
+    }, {
+        "cid": 355,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.625 (15.88)"
+    }, {
+        "cid": 356,
+        "size": "36",
+        "units": "NPS",
+        "description": "36 NPS 0.750 (19.05)"
+    }, {
+        "cid": 357,
+        "size": "42",
+        "units": "NPS",
+        "description": "42 NPS 0.375 (9.52)"
+    }, {
+        "cid": 358,
+        "size": "42",
+        "units": "NPS",
+        "description": "42 NPS 0.500 (12.70)"
+    }, {
+        "cid": 359,
+        "size": "42",
+        "units": "NPS",
+        "description": "42 NPS 0.688 (17.48)"
+    }],
+    "material": {
+        "A": "PE2406",
+        "B": "PE2708",
+        "d": "PE2708 PLUS",
+        "C": "PE3408",
+        "D": "PE3608",
+        "E": "PE3708",
+        "F": "PE3710",
+        "G": "PE4608",
+        "H": "PE4710",
+        "e": "PE4710 PLUS",
+        "W": "PE80",
+        "Z": "PE100",
+        "J": "Poly (Vinyl Chloride) - PVC",
+        "K": "Polyamide 11 - PA11",
+        "L": "Polyamide 12 - PA12",
+        "Y": "PEX",
+        "M": "Steel",
+        "N": "Stainless Steel",
+        "O": "Cast Iron",
+        "P": "Copper",
+        "Q": "Brass",
+        "R": "Malleable Iron",
+        "S": "Ductile Iron",
+        "T": "Reinforced Epoxy Resin",
+        "U": "Nylon",
+        "V": "Glass Filled Nylon",
+        "X": "Other",
+        "0": "Steel - GRADE A",
+        "1": "Steel - GRADE B",
+        "2": "Steel - GRADE C",
+        "3": "Steel - GRADE X42",
+        "4": "Steel - GRADE X46",
+        "5": "Steel - GRADE X52",
+        "6": "Steel - GRADE X56",
+        "7": "Steel - GRADE X60",
+        "8": "Steel - GRADE X65",
+        "9": "Steel - GRADE X70"
+    },
+    "componentType": {
+        "pipe": {
+            "10": "Other",
+            "11": "Straight",
+            "12": "Coiled",
+            "13": "Casing",
+            "1A": "Seamless Line Pipe, API 5L, PSL1, Single Coat",
+            "1B": "Seamless Line Pipe, API 5L, PSL1, Dual Coat",
+            "1C": "Seamless Line Pipe, API 5L, PSL2, Single Coat",
+            "1D": "Seamless Line Pipe, API 5L, PSL2, Dual Coat",
+            "1E": "Electric Resistance Weld, API 5L, PSL1, Single Coat",
+            "1F": "Electric Resistance Weld, API 5L, PSL1, Dual Coat",
+            "1G": "Electric Resistance Weld, API 5L, PSL2, Single Coat",
+            "1H": "Electric Resistance Weld, API5L, PSL2, Dual Coat",
+            "1J": "Seamless and Welded, ASTM A53/A53M",
+            "1K": "Seamless Carbon Steel, ASTM A106/A106M",
+            "1L": "High Frequency Weld, API 5L, PSL2, Single Coat",
+            "1M": "High Frequency Weld, API 5L, PSL2, Dual Coat"
+        },
+        "coupling": {
+            "20": "Other",
+            "21": "Socket fusion",
+            "22": "Socket fusion with EFV",
+            "23": "Electrofusion",
+            "24": "Electrofusion with EFV",
+            "25": "Mechanical compression or nut follower",
+            "26": "Mechanical compression or nut follower with EFV",
+            "27": "Mechanical stab",
+            "28": "Mechanical stab with EFV",
+            "29": "Mechanical interference fit",
+            "2A": "Mechanical interference fit with EFV",
+            "2B": "Welded",
+            "2C": "Threaded",
+            "2D": "Flanged"
+        },
+        "adapterCoupling": {
+            "30": "Other",
+            "31": "Compression by male pipe thread",
+            "32": "Compression by female pipe thread",
+            "33": "Compression by butt fusion",
+            "34": "Compression by butt welded",
+            "35": "Compression by solvent welded",
+            "39": "Compression by stab",
+            "36": "Stab by male pipe thread",
+            "37": "Stab by female pipe thread",
+            "38": "Stab by solvent welded"
+
+        },
+        "endCaps": {
+            "40": "Other",
+            "41": "Butt fusion",
+            "42": "Socket fusion",
+            "43": "Electrofusion",
+            "44": "Mechanical compression or nut follower",
+            "45": "Mechanical stab",
+            "46": "Mechanical interference fit",
+            "47": "Welded",
+            "48": "Threaded",
+            "49": "Fabricated"
+
+        },
+        "elbow": {
+            "50": "Other",
+            "51": "Butt fusion 90",
+            "52": "Socket fusion 90",
+            "53": "Electrofusion 90",
+            "54": "Mechanical compression or nut follower 90",
+            "55": "Mechanical stab 90",
+            "56": "Mechanical interference fit 90",
+            "57": "Welded 90",
+            "58": "Threaded 90",
+            "59": "Fabricated 90",
+            "5A": "Butt fusion 45",
+            "5B": "Socket fusion 45",
+            "5C": "Electrofusion 45",
+            "5D": "Mechanical compression or nut follower 45",
+            "5E": "Mechanical stab 45",
+            "5F": "Mechanical interference fit 45",
+            "5G": "Welded 45",
+            "5H": "Threaded 45",
+            "5J": "Fabricated 45"
+
+        },
+        "3-wayTee": {
+            "60": "Other",
+            "61": "Butt fusion",
+            "62": "Socket fusion",
+            "63": "Electrofusion",
+            "64": "Mechanical compression or nut follower",
+            "65": "Mechanical stab",
+            "66": "Mechanical interference fit",
+            "67": "Welded",
+            "68": "Threaded",
+            "69": "Fabricated"
+
+        },
+        "reducer": {
+            "70": "Other",
+            "71": "Butt fusion",
+            "72": "Socket fusion",
+            "73": "Electrofusion",
+            "74": "Mechanical compression or nut follower",
+            "75": "Mechanical stab",
+            "76": "Mechanical interference fit",
+            "77": "Welded",
+            "78": "Threaded",
+            "79": "Fabricated"
+
+        },
+        "tappingTee": {
+            "80": "Other",
+            "81": "Saddle heat fusion by butt fusion outlet",
+            "82": "Saddle heat fusion by butt fusion outlet with EFV",
+            "83": "Saddle heat fusion by socket outlet",
+            "84": "Saddle heat fusion by socket outlet with EFV",
+            "85": "Saddle heat fusion by mechanical compression outlet",
+            "86": "Saddle heat fusion by mechanical compression outlet with EFV",
+            "87": "Saddle heat fusion by stab outlet",
+            "88": "Saddle heat fusion by stab outlet with EFV",
+            "89": "Electrofusion by butt fusion outlet",
+            "8A": "Electrofusion by butt fusion outlet with EFV",
+            "8B": "Electrofusion by socket outlet",
+            "8C": "Electrofusion by socket outlet with EFV",
+            "8D": "Electrofusion by mechanical compression outlet",
+            "8E": "Electrofusion by mechanical compression outlet with EFV",
+            "8F": "Electrofusion by stab outlet",
+            "8G": "Electrofusion by stab outlet with EFV",
+            "8H": "Mechanical by butt fusion outlet",
+            "8J": "Mechanical by butt fusion outlet with EFV",
+            "8K": "Mechanical by socket outlet",
+            "8L": "Mechanical by socket outlet with EFV",
+            "8M": "Mechanical by mechanical compression outlet",
+            "8N": "Mechanical by mechanical compression outlet with EFV",
+            "8P": "Mechanical by stab outlet",
+            "8Q": "Mechanical by stab outlet with EFV",
+            "8R": "Mechanical by mechanical interference fit",
+            "8S": "Mechanical by mechanical interference fit with EFV"
+
+        },
+        "highVolumeTappingTee": {
+            "90": "Other",
+            "91": "Electrofusion by butt fusion",
+            "92": "Saddle heat fusion by butt fusion",
+            "93": "Mechanical by compression outlet",
+            "94": "Electrofusion by socket outlet",
+            "95": "Saddle heat fusion by socket outlet",
+            "96": "Mechanical by stab outlet",
+            "97": "Mechanical by mechanical interference fit"
+
+        },
+        "branchSaddle": {
+            "B0": "Other",
+            "B1": "Electrofusion",
+            "B2": "Saddle heat fusion",
+            "B3": "Mechanical"
+        },
+
+        "mechanicalSaddle": {
+            "S1": "Mechanical saddle No outlet"
+        },
+        "serviceTee": {
+            "D0": "Other",
+            "D1": "Welded by welded",
+            "D2": "Welded by butt fusion",
+            "D3": "Welded by thread",
+            "D4": "Welded by compression or nut follower",
+            "D5": "Welded by mechanical interference fit",
+            "DD": "Welded by stab",
+            "D6": "Thread by welded",
+            "D7": "Thread by compression or nut follower",
+            "DE": "Thread by mechanical interference fit",
+            "DF": "Thread by stab",
+            "DG": "Thread by thread",
+            "DH": "Thread by butt fusion",
+            "D8": "Mechanical saddle by welded",
+            "D9": "Mechanical saddle by Butt fusion",
+            "DA": "Mechanical saddle by thread",
+            "DB": "Mechanical saddle by compression or nut follower",
+            "DC": "Mechanical saddle by mechanical interference fit",
+            "DJ": "Mechanical saddle by stab"
+        },
+        "serviceSaddle": {
+            "E0": "Other",
+            "E1": "Single strap",
+            "E2": "Double strap"
+        },
+        "flange": {
+            "FH": "Other",
+            "FB": "Blind",
+            "FL": "Lap-Joint",
+            "FX": "Socket Weld",
+            "FS": "Slip-On",
+            "FT": "Threaded",
+            "FW": "Weld-Neck",
+            "FP": "PE Flange Adapter Assembly"
+        },
+        "transitionFitting": {
+            "T0": "Other",
+            "T1": "Welded end",
+            "T2": "Thread end",
+            "T3": "Flanged end",
+            "TX": "Socket weld by butt fusion"
+        },
+        "riser": {
+            "R0": "Other",
+            "R1": "Factory Assembled, Anodeless",
+            "R2": "Factory Assembled, Anodeless, Flexible",
+            "R3": "Factory Assembled, Non-Anodeless",
+            "R4": "Field Assembled. Anodeless",
+            "R5": "Field Assembled, Anodeless, Flexible",
+            "R6": "Field Assembled, Non-Anodeless"
+        },
+        "valve": {
+            "V0": "Other",
+            "V1": "Ball valve",
+            "V2": "Butterfly valve",
+            "V3": "Check valve",
+            "V4": "Relief valve",
+            "V5": "Gate valve",
+            "V6": "Needle valve",
+            "V7": "Plug valve"
+        },
+        "excessFlowValve": {
+            "EF": "Excess Flow Valve"
+        },
+        "meterSetAssembly": {
+            "M0": "Other",
+            "M1": "Diaphragm meter",
+            "M2": "Rotary meter",
+            "M3": "Meter set assembly",
+            "M4": "Meter bar",
+            "M5": "Meter swivel",
+            "M6": "Meter nut",
+            "M7": "Ultrasonic meter",
+            "M8": "Turbine meter",
+            "M9": "Remote shut off meter"
+        },
+        "regulator": {
+            "RX": "Other",
+            "RP": "Pilot",
+            "RS": "Service",
+            "RR": "Relief"
+        },
+        "filter": {
+            "F0": "Other",
+            "F1": "Pilot",
+            "F2": "Service and mains",
+            "F3": "Strainer"
+        },
+        "anode": {
+            "A0": "Other",
+            "A1": "Cast iron",
+            "A2": "Graphite",
+            "A3": "Magnesium",
+            "A4": "Zinc"
+        },
+        "pressureControlFitting": {
+            "P0": "Other",
+            "P1": "Split repair",
+            "P2": "Bottom out",
+            "P3": "Top tap"
+        },
+        "union": {
+            "U1": "Non-insulated",
+            "UX": "Insulated"
+        },
+        "repairClamp": {
+            "C0": "Other",
+            "C1": "Repair clamp"
+        }
+    },
+    "manufacturers": {
+        "0": "Unknown",
+        "35": "Industrial Pipe Fittings",
+        "73": "Plasson",
+        "78": "Torre Gas",
+        "AD": "A-D Technologies",
+        "AG": "Agru America Inc",
+        "AV": "American AVK Co",
+        "AY": "A.Y. McDonald Mfg Co.",
+        "BM": "BROEN Inc",
+        "CE": "Centennial Plastics",
+        "CF": "Chicago Fittings Corp",
+        "CH": "Charter Plastics Inc",
+        "CI": "Continental Industries",
+        "CP": "Georg Fischer Central Plastics LLC",
+        "DR": "Dresser Pipeline Solutions",
+        "EL": "Elster Perfection",
+        "EN": "Endot Industries Inc",
+        "FR": "IPEX Inc",
+        "FT": "Aliaxis Deutschland GmbH",
+        "GB": "Gas Breaker Inc",
+        "HA": "Hawkeye Industries Inc",
+        "HF": "Valencia Pipe Company",
+        "IN": "Innoge",
+        "IP": "Infra Pipe Solutions",
+        "IU": "IPEX USA LLC",
+        "JM": "J-M Manufacturing Co.",
+        "KT": "Kerotest Manufacturing Corp",
+        "MT": "M.T. Deason Co. inc",
+        "MU": "Mueller Co. LLC",
+        "NG": "Nupi Americas",
+        "PC": "Poly-Cam Inc",
+        "PE": "Performance Pipe",
+        "PL": "Pipeline Plastics",
+        "PP": "DuraLine",
+        "PT": "Polytubes LP",
+        "PV": "PolyValve LLC",
+        "QC": "Oil Creek Plastics",
+        "RP": "Rahn Plastics",
+        "RW": "R.W. Lyall",
+        "SB": "Smith-Blair Inc",
+        "SL": "Silver-Line Plastics",
+        "TD": "T.D. Williamson",
+        "TP": "Teel Pipe LLC",
+        "UI": "Uponor Infra Limited",
+        "UP": "United Poly Systems",
+        "US": "US Steel Corp",
+        "VP": "Versaprofiles Inc",
+        "WL": "WL Plastics"
+    }
+
+}

@@ -1,12 +1,23 @@
 #@bugbyte295
 #made for decoding astm f2897 codes
+#base 62 0=0, a=10, A=36, Z=61
+#json imports data from ASTM 
+# dimension holds dicts containing cid, size, units, and description. 
+#material contains a dict with codes = material
+#componentType holds dict of dicts of component data
+#list of dicts in componentType
+#pipe, coupling, adapterCoupling, endCap, elbow, 3-wayTee, reducer, tappingTee, highVolumeTappingTee
+#cont.. branchSaddle, mechanicalSaddle,serviceTee, serviceSaddle, flange, transitionFitting, riser
+#cont... valve, excessFlowValve, meterSetAssembly, regulator, filter, anode, pressureControlFitting
+#cont... union, repairClamp
+#manufacturer holds information about them
 import base62
 import datetime
 
 
 class BC:
     def __init__(self):
-        self.manufacture = None
+        self.manufacturer = 'null'
         self.lotCode = None
         self.productionDate = None
         self.material = None
@@ -16,7 +27,7 @@ class BC:
         self.barcode = None
 
     def parseBarcode(self):
-        self.manufacturer = self.barcode[0:2]
+        self.setManufacturer(self.barcode[:2])
         self.lotCode = self.barcode[2:6] #7 digit base 10, 4 digit base 62
         self.productionDate = self.barcode[6:9] #5 digit base 10, 3 digit base 62. ex 12312 = 123rd day of 2012
         self.material = self.barcode[9]
@@ -73,8 +84,8 @@ class BC:
         self.barcode = value
     
     def convertSize(self, value): # value is base 10
-        for x in range(93):
-            for y in range(93):
+        for x in range(360):
+            for y in range(360):
                 num = (y*378) + x + 1
                 if num == int(value):
                     return (x,y)
@@ -84,7 +95,7 @@ class BC:
         iso_date = datetime.datetime(year, 1, 1) + datetime.timedelta(days=dayOfYear - 1)
         return(iso_date.isoformat()[0:10])
 
-tempBc = None
+
 
 def setBC(string):
     tempBc = BC()
@@ -93,9 +104,18 @@ def setBC(string):
     tempBc.setLotCode(base62.decode(str(tempBc.lotCode)))
     tempBc.setProductionDate(str(base62.decode(str(tempBc.productionDate))))
     tempBc.setComponentSize(tempBc.convertSize(base62.decode(str(tempBc.componentSize))))
-    tempBc.setProductionDate(tempBc.convertDate())    
-    print(tempBc.productionDate)
-    print(tempBc.componentSize)
+    tempBc.setProductionDate(tempBc.convertDate())
+        
+    # print(tempBc.manufacturer)
+    # print(tempBc.lotCode)
+    # print(tempBc.productionDate)
+    # print(tempBc.material)
+    # print(tempBc.componentType)
+    # print(tempBc.componentSize)
+    # print(tempBc.checkDigit)
+    # print(tempBc.barcode)
     
+    
+bark = 'RW6FDa7d8K8S1Yz0'
+setBC(bark)
 
-setBC('RW67qc6tYK8S1Yz0')
