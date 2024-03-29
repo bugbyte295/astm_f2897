@@ -1,1800 +1,319 @@
 {
-    "dimension": [{
-        "cid": 1,
-        "size": "1/4",
-        "units": "CTS",
-        "description": "1/4 CTS 0.062 (1.58)"
-    }, {
-        "cid": 2,
-        "size": "3/8",
-        "units": "CTS",
-        "description": "3/8 CTS 0.062 (1.58)"
-    }, {
-        "cid": 3,
-        "size": "1/2",
-        "units": "CTS",
-        "description": "1/2 CTS 0.062 (1.58)"
-    }, {
-        "cid": 4,
-        "size": "1/2",
-        "units": "CTS",
-        "description": "1/2 CTS 0.090 (2.27)"
-    }, {
-        "cid": 5,
-        "size": "1/2",
-        "units": "CTS",
-        "description": "1/2 CTS 0.104 (2.64)"
-    }, {
-        "cid": 6,
-        "size": "3/4",
-        "units": "CTS",
-        "description": "3/4 CTS 0.062 (1.58)"
-    }, {
-        "cid": 7,
-        "size": "3/4",
-        "units": "CTS",
-        "description": "3/4 CTS 0.077 (1.95)"
-    }, {
-        "cid": 8,
-        "size": "3/4",
-        "units": "CTS",
-        "description": "3/4 CTS 0.090 (2.27)"
-    }, {
-        "cid": 9,
-        "size": "1",
-        "units": "CTS",
-        "description": "1 CTS 0.062 (1.58)"
-    }, {
-        "cid": 10,
-        "size": "1",
-        "units": "CTS",
-        "description": "1 CTS 0.090 (2.27)"
-    }, {
-        "cid": 11,
-        "size": "1",
-        "units": "CTS",
-        "description": "1 CTS 0.099 (2.51)"
-    }, {
-        "cid": 12,
-        "size": "1",
-        "units": "CTS",
-        "description": "1 CTS 0.101 (2.56)"
-    }, {
-        "cid": 13,
-        "size": "1",
-        "units": "CTS",
-        "description": "1 CTS 0.121 (3.07)"
-    }, {
-        "cid": 14,
-        "size": "1 1/4",
-        "units": "CTS",
-        "description": "1 1/4 CTS 0.062 (1.58)"
-    }, {
-        "cid": 15,
-        "size": "1 1/4",
-        "units": "CTS",
-        "description": "1 1/4 CTS 0.090 (2.27)"
-    }, {
-        "cid": 16,
-        "size": "1 1/4",
-        "units": "CTS",
-        "description": "1 1/4 CTS 0.121 (3.07)"
-    }, {
-        "cid": 17,
-        "size": "1 3/4",
-        "units": "CTS",
-        "description": "1 3/4 CTS 0.062 (1.58)"
-    }, {
-        "cid": 18,
-        "size": "1/2",
-        "units": "IPS",
-        "description": "1/2 IPS  DR 9.3 0.090 (2.29)"
-    }, {
-        "cid": 19,
-        "size": "1/2",
-        "units": "IPS",
-        "description": "1/2 IPS  DR 11 0.076 (1.93)"
-    }, {
-        "cid": 20,
-        "size": "3/4",
-        "units": "IPS",
-        "description": "3/4 IPS  DR 11 0.095 (2.41)"
-    }, {
-        "cid": 21,
-        "size": "3/4",
-        "units": "IPS",
-        "description": "3/4 IPS  DR D 0.090 (2.29)"
-    }, {
-        "cid": 22,
-        "size": "1",
-        "units": "IPS",
-        "description": "1 IPS  DR 9.33 0.140 (3.56)"
-    }, {
-        "cid": 23,
-        "size": "1",
-        "units": "IPS",
-        "description": "1 IPS  DR 9.9 0.133 (3.38)"
-    }, {
-        "cid": 24,
-        "size": "1",
-        "units": "IPS",
-        "description": "1 IPS  DR 11 0.120 (3.05)"
-    }, {
-        "cid": 25,
-        "size": "1",
-        "units": "IPS",
-        "description": "1 IPS  DR 13.5 0.097 (2.46)"
-    }, {
-        "cid": 26,
-        "size": "1",
-        "units": "IPS",
-        "description": "1 IPS  DR D 0.090 (2.29)"
-    }, {
-        "cid": 27,
-        "size": "1 1/4",
-        "units": "IPS",
-        "description": "1 1/4 IPS  DR 9.33 0.178 (4.52)"
-    }, {
-        "cid": 28,
-        "size": "1 1/4",
-        "units": "IPS",
-        "description": "1 1/4 IPS  DR 10 0.166 (4.22)"
-    }, {
-        "cid": 29,
-        "size": "1 1/4",
-        "units": "IPS",
-        "description": "1 1/4 IPS  DR 11 0.151 (3.84)"
-    }, {
-        "cid": 30,
-        "size": "1 1/4",
-        "units": "IPS",
-        "description": "1 1/4 IPS  DR 13.5 0.123 (3.12)"
-    }, {
-        "cid": 31,
-        "size": "1 1/4",
-        "units": "IPS",
-        "description": "1 1/4 IPS  DR 17 0.098 (2.49)"
-    }, {
-        "cid": 32,
-        "size": "1 1/4",
-        "units": "IPS",
-        "description": "1 1/4 IPS  DR D 0.090 (2.29)"
-    }, {
-        "cid": 33,
-        "size": "1 1/2",
-        "units": "IPS",
-        "description": "1 1/2 IPS  DR 11 0.173 (4.39)"
-    }, {
-        "cid": 34,
-        "size": "1 1/2",
-        "units": "IPS",
-        "description": "1 1/2 IPS  DR 13.5 0.141 (3.58)"
-    }, {
-        "cid": 35,
-        "size": "1 1/2",
-        "units": "IPS",
-        "description": "1 1/2 IPS  DR 17 0.112 (2.85)"
-    }, {
-        "cid": 36,
-        "size": "1 1/2",
-        "units": "IPS",
-        "description": "1 1/2 IPS  DR D 0.090 (2.29)"
-    }, {
-        "cid": 37,
-        "size": "2",
-        "units": "IPS",
-        "description": "2 IPS  DR 9.33 0.255 (6.48)"
-    }, {
-        "cid": 38,
-        "size": "2",
-        "units": "IPS",
-        "description": "2 IPS  DR 11 0.216 (5.59)"
-    }, {
-        "cid": 39,
-        "size": "2",
-        "units": "IPS",
-        "description": "2 IPS  DR 13.5 0.176 (4.47)"
-    }, {
-        "cid": 40,
-        "size": "3",
-        "units": "IPS",
-        "description": "3 IPS  DR 11 0.318 (8.08)"
-    }, {
-        "cid": 41,
-        "size": "3",
-        "units": "IPS",
-        "description": "3 IPS  DR 11.5 0.304 (7.72)"
-    }, {
-        "cid": 42,
-        "size": "3",
-        "units": "IPS",
-        "description": "3 IPS  DR 13.5 0.259 (6.58)"
-    }, {
-        "cid": 43,
-        "size": "4",
-        "units": "IPS",
-        "description": "4 IPS  DR 9.33 0.482 (12.24)"
-    }, {
-        "cid": 44,
-        "size": "4",
-        "units": "IPS",
-        "description": "4 IPS  DR 11 0.409 (10.39)"
-    }, {
-        "cid": 45,
-        "size": "4",
-        "units": "IPS",
-        "description": "4 IPS  DR 11.5 0.391 (9.93)"
-    }, {
-        "cid": 46,
-        "size": "4",
-        "units": "IPS",
-        "description": "4 IPS  DR 13.5 0.333 (8.46)"
-    }, {
-        "cid": 47,
-        "size": "4",
-        "units": "IPS",
-        "description": "4 IPS  DR 15.5 0.290 (7.37)"
-    }, {
-        "cid": 48,
-        "size": "4",
-        "units": "IPS",
-        "description": "4 IPS  DR 17 0.265 (6.73)"
-    }, {
-        "cid": 49,
-        "size": "6",
-        "units": "IPS",
-        "description": "6 IPS  DR 11 0.602 (15.29)"
-    }, {
-        "cid": 50,
-        "size": "6",
-        "units": "IPS",
-        "description": "6 IPS  DR 11.5 0.576 (14.63)"
-    }, {
-        "cid": 51,
-        "size": "6",
-        "units": "IPS",
-        "description": "6 IPS  DR 13.5 0.491 (12.47)"
-    }, {
-        "cid": 52,
-        "size": "6",
-        "units": "IPS",
-        "description": "6 IPS  DR 17 0.390 (9.91)"
-    }, {
-        "cid": 53,
-        "size": "6",
-        "units": "IPS",
-        "description": "6 IPS  DR 21 0.315 (8.00)"
-    }, {
-        "cid": 54,
-        "size": "8",
-        "units": "IPS",
-        "description": "8 IPS  DR 11 0.784 (19.91)"
-    }, {
-        "cid": 55,
-        "size": "8",
-        "units": "IPS",
-        "description": "8 IPS  DR 11.5 0.750 (19.05)"
-    }, {
-        "cid": 56,
-        "size": "8",
-        "units": "IPS",
-        "description": "8 IPS  DR 13.5 0.639 (16.23)"
-    }, {
-        "cid": 57,
-        "size": "8",
-        "units": "IPS",
-        "description": "8 IPS  DR 17 0.507 (12.90)"
-    }, {
-        "cid": 58,
-        "size": "8",
-        "units": "IPS",
-        "description": "8 IPS  DR 21 0.411 (10.44)"
-    }, {
-        "cid": 59,
-        "size": "10",
-        "units": "IPS",
-        "description": "10 IPS  DR 11 0.977 (24.82)"
-    }, {
-        "cid": 60,
-        "size": "10",
-        "units": "IPS",
-        "description": "10 IPS  DR 11.5 0.935 (23.75)"
-    }, {
-        "cid": 61,
-        "size": "10",
-        "units": "IPS",
-        "description": "10 IPS  DR 13.5 0.796 (20.22)"
-    }, {
-        "cid": 62,
-        "size": "10",
-        "units": "IPS",
-        "description": "10 IPS  DR 17 0.632 (16.05)"
-    }, {
-        "cid": 63,
-        "size": "10",
-        "units": "IPS",
-        "description": "10 IPS  DR 21 0.512 (13.00)"
-    }, {
-        "cid": 64,
-        "size": "12",
-        "units": "IPS",
-        "description": "12 IPS  DR 11 1.159 (29.44)"
-    }, {
-        "cid": 65,
-        "size": "12",
-        "units": "IPS",
-        "description": "12 IPS  DR 11.5 1.109 (28.17)"
-    }, {
-        "cid": 66,
-        "size": "12",
-        "units": "IPS",
-        "description": "12 IPS  DR 13.5 0.994 (23.98)"
-    }, {
-        "cid": 67,
-        "size": "12",
-        "units": "IPS",
-        "description": "12 IPS  DR 17 0.750 (19.05)"
-    }, {
-        "cid": 68,
-        "size": "12",
-        "units": "IPS",
-        "description": "12 IPS  DR 21 0.607 (15.42)"
-    }, {
-        "cid": 69,
-        "size": "14",
-        "units": "IPS",
-        "description": "14 IPS  DR 11 1.273 (32.33)"
-    }, {
-        "cid": 70,
-        "size": "14",
-        "units": "IPS",
-        "description": "14 IPS  DR 13.5 1.037 (26.34)"
-    }, {
-        "cid": 71,
-        "size": "14",
-        "units": "IPS",
-        "description": "14 IPS  DR 17 0.824 (20.93)"
-    }, {
-        "cid": 72,
-        "size": "14",
-        "units": "IPS",
-        "description": "14 IPS  DR 21 0.667 (16.94)"
-    }, {
-        "cid": 73,
-        "size": "16",
-        "units": "IPS",
-        "description": "16 IPS  DR 11 1.455 (36.96)"
-    }, {
-        "cid": 74,
-        "size": "16",
-        "units": "IPS",
-        "description": "16 IPS  DR 13.5 1.185 (30.10)"
-    }, {
-        "cid": 75,
-        "size": "16",
-        "units": "IPS",
-        "description": "16 IPS  DR 17 0.941 (23.90)"
-    }, {
-        "cid": 76,
-        "size": "16",
-        "units": "IPS",
-        "description": "16 IPS  DR 21 0.762 (19.35)"
-    }, {
-        "cid": 77,
-        "size": "18",
-        "units": "IPS",
-        "description": "18 IPS  DR 11 1.636 (41.55)"
-    }, {
-        "cid": 78,
-        "size": "18",
-        "units": "IPS",
-        "description": "18 IPS  DR 13.5 1.333 (33.86)"
-    }, {
-        "cid": 79,
-        "size": "18",
-        "units": "IPS",
-        "description": "18 IPS  DR 17 1.059 (26.90)"
-    }, {
-        "cid": 80,
-        "size": "18",
-        "units": "IPS",
-        "description": "18 IPS  DR 21 0.857 (21.77)"
-    }, {
-        "cid": 81,
-        "size": "20",
-        "units": "IPS",
-        "description": "20 IPS  DR 11 1.818 (46.18)"
-    }, {
-        "cid": 82,
-        "size": "20",
-        "units": "IPS",
-        "description": "20 IPS  DR 13.5 1.481 (37.62)"
-    }, {
-        "cid": 83,
-        "size": "20",
-        "units": "IPS",
-        "description": "20 IPS  DR 17 1.176 (29.87)"
-    }, {
-        "cid": 84,
-        "size": "20",
-        "units": "IPS",
-        "description": "20 IPS  DR 21 0.952 (24.18)"
-    }, {
-        "cid": 85,
-        "size": "22",
-        "units": "IPS",
-        "description": "22 IPS  DR 11 2.000 (50.8)"
-    }, {
-        "cid": 86,
-        "size": "22",
-        "units": "IPS",
-        "description": "22 IPS  DR 13.5 1.630 (41.40)"
-    }, {
-        "cid": 87,
-        "size": "22",
-        "units": "IPS",
-        "description": "22 IPS  DR 17 1.294 (32.87)"
-    }, {
-        "cid": 88,
-        "size": "22",
-        "units": "IPS",
-        "description": "22 IPS  DR 21 1.048 (26.62)"
-    }, {
-        "cid": 89,
-        "size": "24",
-        "units": "IPS",
-        "description": "24 IPS  DR 11 2.182 (55.43)"
-    }, {
-        "cid": 90,
-        "size": "24",
-        "units": "IPS",
-        "description": "24 IPS  DR 13.5 1.778 (45.16)"
-    }, {
-        "cid": 91,
-        "size": "24",
-        "units": "IPS",
-        "description": "24 IPS  DR 17 1.412 (35.86)"
-    }, {
-        "cid": 92,
-        "size": "24",
-        "units": "IPS",
-        "description": "24 IPS  DR 21 1.143 (29.03)"
-    }, {
-        "cid": 93,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 94,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 95,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 96,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 97,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 98,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 99,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 100,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 101,
-        "size": "Â½",
-        "units": "MPT",
-        "description": "Â½ MPT "
-    }, {
-        "cid": 102,
-        "size": "Â¾ ",
-        "units": "MPT",
-        "description": "Â¾  MPT "
-    }, {
-        "cid": 103,
-        "size": "1",
-        "units": "MPT",
-        "description": "1 MPT "
-    }, {
-        "cid": 104,
-        "size": "1 Â¼",
-        "units": "MPT",
-        "description": "1 Â¼ MPT "
-    }, {
-        "cid": 105,
-        "size": "1 Â½",
-        "units": "MPT",
-        "description": "1 Â½ MPT "
-    }, {
-        "cid": 106,
-        "size": "2",
-        "units": "MPT",
-        "description": "2 MPT "
-    }, {
-        "cid": 107,
-        "size": "3",
-        "units": "MPT",
-        "description": "3 MPT "
-    }, {
-        "cid": 108,
-        "size": "4",
-        "units": "MPT",
-        "description": "4 MPT "
-    }, {
-        "cid": 109,
-        "size": "6",
-        "units": "MPT",
-        "description": "6 MPT "
-    }, {
-        "cid": 110,
-        "size": "8",
-        "units": "MPT",
-        "description": "8 MPT "
-    }, {
-        "cid": 111,
-        "size": "10",
-        "units": "MPT",
-        "description": "10 MPT "
-    }, {
-        "cid": 112,
-        "size": "12",
-        "units": "MPT",
-        "description": "12 MPT "
-    }, {
-        "cid": 113,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 114,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 115,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 116,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 117,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 118,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 119,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 120,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 121,
-        "size": "Â½",
-        "units": "FPT",
-        "description": "Â½ FPT "
-    }, {
-        "cid": 122,
-        "size": "Â¾",
-        "units": "FPT",
-        "description": "Â¾ FPT "
-    }, {
-        "cid": 123,
-        "size": "1",
-        "units": "FPT",
-        "description": "1 FPT "
-    }, {
-        "cid": 124,
-        "size": "1 Â¼",
-        "units": "FPT",
-        "description": "1 Â¼ FPT "
-    }, {
-        "cid": 125,
-        "size": "1 Â½",
-        "units": "FPT",
-        "description": "1 Â½ FPT "
-    }, {
-        "cid": 126,
-        "size": "2",
-        "units": "FPT",
-        "description": "2 FPT "
-    }, {
-        "cid": 127,
-        "size": "3",
-        "units": "FPT",
-        "description": "3 FPT "
-    }, {
-        "cid": 128,
-        "size": "4",
-        "units": "FPT",
-        "description": "4 FPT "
-    }, {
-        "cid": 129,
-        "size": "6",
-        "units": "FPT",
-        "description": "6 FPT "
-    }, {
-        "cid": 130,
-        "size": "8",
-        "units": "FPT",
-        "description": "8 FPT "
-    }, {
-        "cid": 131,
-        "size": "10",
-        "units": "FPT",
-        "description": "10 FPT "
-    }, {
-        "cid": 132,
-        "size": "12",
-        "units": "FPT",
-        "description": "12 FPT "
-    }, {
-        "cid": 133,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 134,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 135,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 136,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 137,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 138,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 139,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 140,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 141,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 142,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 143,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 144,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 145,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 146,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 147,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 148,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 149,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 150,
-        "size": "",
-        "units": "",
-        "description": "  "
-    }, {
-        "cid": 151,
-        "size": "1/8",
-        "units": "NPS",
-        "description": "1/8 NPS 0.068 (1.73)"
-    }, {
-        "cid": 152,
-        "size": "1/8",
-        "units": "NPS",
-        "description": "1/8 NPS 0.095 (2.41)"
-    }, {
-        "cid": 153,
-        "size": "1/4",
-        "units": "NPS",
-        "description": "1/4 NPS 0.088 (2.24)"
-    }, {
-        "cid": 154,
-        "size": "1/4",
-        "units": "NPS",
-        "description": "1/4 NPS 0.119 (3.02)"
-    }, {
-        "cid": 155,
-        "size": "3/8",
-        "units": "NPS",
-        "description": "3/8 NPS 0.091 (2.31)"
-    }, {
-        "cid": 156,
-        "size": "3/8",
-        "units": "NPS",
-        "description": "3/8 NPS 0.126 (3.20)"
-    }, {
-        "cid": 157,
-        "size": "1/2",
-        "units": "NPS",
-        "description": "1/2 NPS 0.109 (2.77)"
-    }, {
-        "cid": 158,
-        "size": "1/2",
-        "units": "NPS",
-        "description": "1/2 NPS 0.147 (3.73)"
-    }, {
-        "cid": 159,
-        "size": "3/4",
-        "units": "NPS",
-        "description": "3/4 NPS 0.113 (2.87)"
-    }, {
-        "cid": 160,
-        "size": "3/4",
-        "units": "NPS",
-        "description": "3/4 NPS 0.154 (3.91)"
-    }, {
-        "cid": 161,
-        "size": "1",
-        "units": "NPS",
-        "description": "1 NPS 0.133 (2.87)"
-    }, {
-        "cid": 162,
-        "size": "1",
-        "units": "NPS",
-        "description": "1 NPS 0.179 (4.55)"
-    }, {
-        "cid": 163,
-        "size": "1 1/4",
-        "units": "NPS",
-        "description": "1 1/4 NPS 0.140 (3.56)"
-    }, {
-        "cid": 164,
-        "size": "1 1/4",
-        "units": "NPS",
-        "description": "1 1/4 NPS 0.191 (4.85)"
-    }, {
-        "cid": 165,
-        "size": "1 1/2",
-        "units": "NPS",
-        "description": "1 1/2 NPS 0.145 (3.68)"
-    }, {
-        "cid": 166,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 167,
-        "size": "2",
-        "units": "NPS",
-        "description": "2 NPS 0.154 (3.91)"
-    }, {
-        "cid": 168,
-        "size": "2",
-        "units": "NPS",
-        "description": "2 NPS 0.218 (5.54)"
-    }, {
-        "cid": 169,
-        "size": "3",
-        "units": "NPS",
-        "description": "3 NPS  0.188 (4.78) "
-    }, {
-        "cid": 170,
-        "size": "3",
-        "units": "NPS",
-        "description": "3 NPS 0.216 (5.49)"
-    }, {
-        "cid": 171,
-        "size": "4",
-        "units": "NPS",
-        "description": "4 NPS 0.156 (3.91)"
-    }, {
-        "cid": 172,
-        "size": "4",
-        "units": "NPS",
-        "description": "4 NPS 0.188 (4.78)"
-    }, {
-        "cid": 173,
-        "size": "4",
-        "units": "NPS",
-        "description": "4 NPS 0.237 (6.02)"
-    }, {
-        "cid": 174,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 175,
-        "size": "6",
-        "units": "NPS",
-        "description": "6 NPS 0.188 (4.78)"
-    }, {
-        "cid": 176,
-        "size": "6",
-        "units": "NPS",
-        "description": "6 NPS 0.219 (5.56)"
-    }, {
-        "cid": 177,
-        "size": "6",
-        "units": "NPS",
-        "description": "6 NPS 0.250 (6.35)"
-    }, {
-        "cid": 178,
-        "size": "6",
-        "units": "NPS",
-        "description": "6 NPS 0.280 (7.11)"
-    }, {
-        "cid": 179,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 180,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 181,
-        "size": "8",
-        "units": "NPS",
-        "description": "8 NPS 0.188 (4.78)"
-    }, {
-        "cid": 182,
-        "size": "8",
-        "units": "NPS",
-        "description": "8 NPS 0.219 (5.56)"
-    }, {
-        "cid": 183,
-        "size": "8",
-        "units": "NPS",
-        "description": "8 NPS 0.250 (6.35)"
-    }, {
-        "cid": 184,
-        "size": "8",
-        "units": "NPS",
-        "description": "8 NPS 0.322 (8.18)"
-    }, {
-        "cid": 185,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 186,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 187,
-        "size": "10",
-        "units": "NPS",
-        "description": "10 NPS 0.188 (4.78)"
-    }, {
-        "cid": 188,
-        "size": "10",
-        "units": "NPS",
-        "description": "10 NPS 0.203 (5.16)"
-    }, {
-        "cid": 189,
-        "size": "10",
-        "units": "NPS",
-        "description": "10 NPS 0.219 (5.56)"
-    }, {
-        "cid": 190,
-        "size": "10",
-        "units": "NPS",
-        "description": "10 NPS 0.279 (7.09)"
-    }, {
-        "cid": 191,
-        "size": "10",
-        "units": "NPS",
-        "description": "10 NPS 0.365 (9.27)"
-    }, {
-        "cid": 192,
-        "size": "",
-        "units": "",
-        "description": ""
-    }, {
-        "cid": 193,
-        "size": "12",
-        "units": "NPS",
-        "description": "12 NPS 0.219 (5.56)"
-    }, {
-        "cid": 194,
-        "size": "12",
-        "units": "NPS",
-        "description": "12 NPS 0.250 (6.35)"
-    }, {
-        "cid": 195,
-        "size": "12",
-        "units": "NPS",
-        "description": "12 NPS 0.312 (7.92)"
-    }, {
-        "cid": 196,
-        "size": "12",
-        "units": "NPS",
-        "description": "12 NPS 0.375 (9.52)"
-    }, {
-        "cid": 197,
-        "size": "14",
-        "units": "NPS",
-        "description": "14 NPS 0.209 (5.30)"
-    }, {
-        "cid": 198,
-        "size": "14",
-        "units": "NPS",
-        "description": "14 NPS 0.250 (6.35)"
-    }, {
-        "cid": 199,
-        "size": "14",
-        "units": "NPS",
-        "description": "14 NPS 0.375 (9.53)"
-    }, {
-        "cid": 200,
-        "size": "14",
-        "units": "NPS",
-        "description": "14 NPS 0.625 (15.88)"
-    }, {
-        "cid": 201,
-        "size": "14",
-        "units": "NPS",
-        "description": "14 NPS 0.687 (17.45)"
-    }, {
-        "cid": 202,
-        "size": "14",
-        "units": "NPS",
-        "description": "14 NPS 0.938 (23.83)"
-    }, {
-        "cid": 203,
-        "size": "15",
-        "units": "NPS",
-        "description": "15 NPS 0.209 (5.30)"
-    }, {
-        "cid": 204,
-        "size": "15",
-        "units": "NPS",
-        "description": "15 NPS 0.250 (6.35)"
-    }, {
-        "cid": 205,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.188 (4.78)"
-    }, {
-        "cid": 206,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.219 (5.56)"
-    }, {
-        "cid": 207,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.225 (5.72)"
-    }, {
-        "cid": 208,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.243 (6.17)"
-    }, {
-        "cid": 209,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.250 (6.35)"
-    }, {
-        "cid": 210,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.260 (6.60)"
-    }, {
-        "cid": 211,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.270 (6.86)"
-    }, {
-        "cid": 212,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.280 (7.11)"
-    }, {
-        "cid": 213,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.312 (7.93)"
-    }, {
-        "cid": 214,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.325 (8.26)"
-    }, {
-        "cid": 215,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.345 (8.76)"
-    }, {
-        "cid": 216,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.357 (9.07)"
-    }, {
-        "cid": 217,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.365 (9.27)"
-    }, {
-        "cid": 218,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.375 (9.53)"
-    }, {
-        "cid": 219,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.406 (10.31)"
-    }, {
-        "cid": 220,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.500 (12.70)"
-    }, {
-        "cid": 221,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.530 (13.46)"
-    }, {
-        "cid": 222,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.550 (13.97)"
-    }, {
-        "cid": 223,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.560 (14.22)"
-    }, {
-        "cid": 224,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.625 (15.88)"
-    }, {
-        "cid": 225,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.656 (16.66)"
-    }, {
-        "cid": 226,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 0.843 (21.41)"
-    }, {
-        "cid": 227,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 1.039 (26.39)"
-    }, {
-        "cid": 228,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 1.125 (28.58)"
-    }, {
-        "cid": 229,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 1.218 (30.94)"
-    }, {
-        "cid": 230,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 1.438 (36.53)"
-    }, {
-        "cid": 231,
-        "size": "16",
-        "units": "NPS",
-        "description": "16 NPS 1.594 (40.49)"
-    }, {
-        "cid": 232,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 0.219 (5.56)"
-    }, {
-        "cid": 233,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 0.250 (6.35)"
-    }, {
-        "cid": 234,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 0.312 (7.93)"
-    }, {
-        "cid": 235,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 0.344 (8.73)"
-    }, {
-        "cid": 236,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 0.375 (9.53)"
-    }, {
-        "cid": 237,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 0.406 (10.31)"
-    }, {
-        "cid": 238,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 0.500 (12.70)"
-    }, {
-        "cid": 239,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 0.750 (19.05)"
-    }, {
-        "cid": 240,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 0.938 (23.83)"
-    }, {
-        "cid": 241,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 1.125 (28.58)"
-    }, {
-        "cid": 242,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 1.156 (29.36)"
-    }, {
-        "cid": 243,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 1.375 (34.93)"
-    }, {
-        "cid": 244,
-        "size": "18",
-        "units": "NPS",
-        "description": "18 NPS 2.100 (53.34)"
-    }, {
-        "cid": 245,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.219 (5.56)"
-    }, {
-        "cid": 246,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.234 (5.94)"
-    }, {
-        "cid": 247,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.250 (6.35)"
-    }, {
-        "cid": 248,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.265 (6.73)"
-    }, {
-        "cid": 249,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.281 (7.14)"
-    }, {
-        "cid": 250,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.288 (7.32)"
-    }, {
-        "cid": 251,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.312 (7.93)"
-    }, {
-        "cid": 252,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.328 (8.33)"
-    }, {
-        "cid": 253,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.344 (8.74)"
-    }, {
-        "cid": 254,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.375 (9.53)"
-    }, {
-        "cid": 255,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.406 (10.31)"
-    }, {
-        "cid": 256,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.438 (11.13)"
-    }, {
-        "cid": 257,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.469 (11.91)"
-    }, {
-        "cid": 258,
-        "size": "20",
-        "units": "NPS",
-        "description": "20 NPS 0.500 (12.70)"
-    }, {
-        "cid": 259,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.219 (5.56)"
-    }, {
-        "cid": 260,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.237 (6.02)"
-    }, {
-        "cid": 261,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.250 (6.35)"
-    }, {
-        "cid": 262,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.281 (7.14)"
-    }, {
-        "cid": 263,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.312 (7.93)"
-    }, {
-        "cid": 264,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.344 (8.74)"
-    }, {
-        "cid": 265,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.371 (9.42)"
-    }, {
-        "cid": 266,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.375 (9.53)"
-    }, {
-        "cid": 267,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.432 (10.97)"
-    }, {
-        "cid": 268,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.438 (11.13)"
-    }, {
-        "cid": 269,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.500 (12.70)"
-    }, {
-        "cid": 270,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.562 (14.28)"
-    }, {
-        "cid": 271,
-        "size": "22",
-        "units": "NPS",
-        "description": "22 NPS 0.625 (15.88)"
-    }, {
-        "cid": 272,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.250 (6.35)"
-    }, {
-        "cid": 273,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.265 (6.73)"
-    }, {
-        "cid": 274,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.271 (6.88)"
-    }, {
-        "cid": 275,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.281 (7.14)"
-    }, {
-        "cid": 276,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.289 (7.34)"
-    }, {
-        "cid": 277,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.307 (7.80)"
-    }, {
-        "cid": 278,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.312 (7.93)"
-    }, {
-        "cid": 279,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.320 (8.13)"
-    }, {
-        "cid": 280,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.344 (8.74)"
-    }, {
-        "cid": 281,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.375 (9.53)"
-    }, {
-        "cid": 282,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.382 (9.70)"
-    }, {
-        "cid": 283,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.391 (9.93)"
-    }, {
-        "cid": 284,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.406 (10.31)"
-    }, {
-        "cid": 285,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.500 (12.70)"
-    }, {
-        "cid": 286,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.562 (14.28)"
-    }, {
-        "cid": 287,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 0.625 (15.88)"
-    }, {
-        "cid": 288,
-        "size": "24",
-        "units": "NPS",
-        "description": "24 NPS 1.531 (38.88)"
-    }, {
-        "cid": 289,
-        "size": "26",
-        "units": "NPS",
-        "description": "26 NPS 0.250 (6.35)"
-    }, {
-        "cid": 290,
-        "size": "26",
-        "units": "NPS",
-        "description": "26 NPS 0.264 (6.71)"
-    }, {
-        "cid": 291,
-        "size": "26",
-        "units": "NPS",
-        "description": "26 NPS 0.278 (7.06)"
-    }, {
-        "cid": 292,
-        "size": "26",
-        "units": "NPS",
-        "description": "26 NPS 0.281 (7.14)"
-    }, {
-        "cid": 293,
-        "size": "26",
-        "units": "NPS",
-        "description": "26 NPS 0.291 (7.39)"
-    }, {
-        "cid": 294,
-        "size": "26",
-        "units": "NPS",
-        "description": "26 NPS 0.312 (7.93)"
-    }, {
-        "cid": 295,
-        "size": "26",
-        "units": "NPS",
-        "description": "26 NPS 0.344 (8.74)"
-    }, {
-        "cid": 296,
-        "size": "26",
-        "units": "NPS",
-        "description": "26 NPS 0.375 (9.53)"
-    }, {
-        "cid": 297,
-        "size": "26",
-        "units": "NPS",
-        "description": "26 NPS 0.438 (11.13)"
-    }, {
-        "cid": 298,
-        "size": "26",
-        "units": "NPS",
-        "description": "26 NPS 0.500 (12.70)"
-    }, {
-        "cid": 299,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.250 (6.35)"
-    }, {
-        "cid": 300,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.281 (7.14)"
-    }, {
-        "cid": 301,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.287 (7.29)"
-    }, {
-        "cid": 302,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.312 (7.93)"
-    }, {
-        "cid": 303,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.328 (8.33)"
-    }, {
-        "cid": 304,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.337 (8.56)"
-    }, {
-        "cid": 305,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.344 (8.74)"
-    }, {
-        "cid": 306,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.350 (8.89)"
-    }, {
-        "cid": 307,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.365 (9.27)"
-    }, {
-        "cid": 308,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.375 (9.53)"
-    }, {
-        "cid": 309,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.391 (9.93)"
-    }, {
-        "cid": 310,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.406 (10.31)"
-    }, {
-        "cid": 311,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.417 (10.59)"
-    }, {
-        "cid": 312,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.421 (10.69)"
-    }, {
-        "cid": 313,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.428 (10.87)"
-    }, {
-        "cid": 314,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.430 (10.92)"
-    }, {
-        "cid": 315,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.437 (11.10)"
-    }, {
-        "cid": 316,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.438 (11.13)"
-    }, {
-        "cid": 317,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.450 (11.43)"
-    }, {
-        "cid": 318,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.469 (11.91)"
-    }, {
-        "cid": 319,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.500 (12.70)"
-    }, {
-        "cid": 320,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.562 (14.28)"
-    }, {
-        "cid": 321,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.563 (14.30)"
-    }, {
-        "cid": 322,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.593 (15.06)"
-    }, {
-        "cid": 323,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.625 (15.88)"
-    }, {
-        "cid": 324,
-        "size": "30",
-        "units": "NPS",
-        "description": "30 NPS 0.750 (19.05)"
-    }, {
-        "cid": 325,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.375 (9.53)"
-    }, {
-        "cid": 326,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.416 (10.57)"
-    }, {
-        "cid": 327,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.438 (11.13)"
-    }, {
-        "cid": 328,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.469 (11.91)"
-    }, {
-        "cid": 329,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.500 (12.70)"
-    }, {
-        "cid": 330,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.524 (13.31)"
-    }, {
-        "cid": 331,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.562 (14.28)"
-    }, {
-        "cid": 332,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.566 (14.38)"
-    }, {
-        "cid": 333,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.600 (15.24)"
-    }, {
-        "cid": 334,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.628 (15.95)"
-    }, {
-        "cid": 335,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.750 (19.05)"
-    }, {
-        "cid": 336,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.754 (19.15)"
-    }, {
-        "cid": 337,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 0.875 (22.23)"
-    }, {
-        "cid": 338,
-        "size": "32",
-        "units": "NPS",
-        "description": "32 NPS 1.250 (31.75)"
-    }, {
-        "cid": 339,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.312 (7.92)"
-    }, {
-        "cid": 340,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.322 (8.18)"
-    }, {
-        "cid": 341,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.344 (8.74)"
-    }, {
-        "cid": 342,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.375 (9.53)"
-    }, {
-        "cid": 343,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.391 (9.93)"
-    }, {
-        "cid": 344,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.406 (10.31)"
-    }, {
-        "cid": 345,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.422 (10.72)"
-    }, {
-        "cid": 346,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.428 (10.87)"
-    }, {
-        "cid": 347,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.438 (11.13)"
-    }, {
-        "cid": 348,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.453 (11.51)"
-    }, {
-        "cid": 349,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.469 (11.91)"
-    }, {
-        "cid": 350,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.484 (12.29)"
-    }, {
-        "cid": 351,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.500 (12.70)"
-    }, {
-        "cid": 352,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.525 (13.33)"
-    }, {
-        "cid": 353,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.562 (14.28)"
-    }, {
-        "cid": 354,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.594 (15.09)"
-    }, {
-        "cid": 355,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.625 (15.88)"
-    }, {
-        "cid": 356,
-        "size": "36",
-        "units": "NPS",
-        "description": "36 NPS 0.750 (19.05)"
-    }, {
-        "cid": 357,
-        "size": "42",
-        "units": "NPS",
-        "description": "42 NPS 0.375 (9.52)"
-    }, {
-        "cid": 358,
-        "size": "42",
-        "units": "NPS",
-        "description": "42 NPS 0.500 (12.70)"
-    }, {
-        "cid": 359,
-        "size": "42",
-        "units": "NPS",
-        "description": "42 NPS 0.688 (17.48)"
-    }],
+    "dimension": {
+        "1": "1/4 CTS 0.062 (1.58)",
+        "2": "3/8 CTS 0.062 (1.58)",
+        "3": "1/2 CTS 0.062 (1.58)",
+        "4": "1/2 CTS 0.090 (2.27)",
+        "5": "1/2 CTS 0.104 (2.64)",
+        "6": "3/4 CTS 0.062 (1.58)",
+        "7": "3/4 CTS 0.077 (1.95)",
+        "8": "3/4 CTS 0.090 (2.27)",
+        "9": "1 CTS 0.062 (1.58)",
+        "10": "1 CTS 0.090 (2.27)",
+        "11": "1 CTS 0.099 (2.51)",
+        "12": "1 CTS 0.101 (2.56)",
+        "13": "1 CTS 0.121 (3.07)",
+        "14": "1 1/4 CTS 0.062 (1.58)",
+        "15": "1 1/4 CTS 0.090 (2.27)",
+        "16": "1 1/4 CTS 0.121 (3.07)",
+        "17": "1 3/4 CTS 0.062 (1.58)",
+        "18": "1/2 IPS  DR 9.3 0.090 (2.29)",
+        "19": "1/2 IPS  DR 11 0.076 (1.93)",
+        "20": "3/4 IPS  DR 11 0.095 (2.41)",
+        "21": "3/4 IPS  DR D 0.090 (2.29)",
+        "22": "1 IPS  DR 9.33 0.140 (3.56)",
+        "23": "1 IPS  DR 9.9 0.133 (3.38)",
+        "24": "1 IPS  DR 11 0.120 (3.05)",
+        "25": "1 IPS  DR 13.5 0.097 (2.46)",
+        "26": "1 IPS  DR D 0.090 (2.29)",
+        "27": "1 1/4 IPS  DR 9.33 0.178 (4.52)",
+        "28": "1 1/4 IPS  DR 10 0.166 (4.22)",
+        "29": "1 1/4 IPS  DR 11 0.151 (3.84)",
+        "30": "1 1/4 IPS  DR 13.5 0.123 (3.12)",
+        "31": "1 1/4 IPS  DR 17 0.098 (2.49)",
+        "32": "1 1/4 IPS  DR D 0.090 (2.29)",
+        "33": "1 1/2 IPS  DR 11 0.173 (4.39)",
+        "34": "1 1/2 IPS  DR 13.5 0.141 (3.58)",
+        "35": "1 1/2 IPS  DR 17 0.112 (2.85)",
+        "36": "1 1/2 IPS  DR D 0.090 (2.29)",
+        "37": "2 IPS  DR 9.33 0.255 (6.48)",
+        "38": "2 IPS  DR 11 0.216 (5.59)",
+        "39": "2 IPS  DR 13.5 0.176 (4.47)",
+        "40": "3 IPS  DR 11 0.318 (8.08)",
+        "41": "3 IPS  DR 11.5 0.304 (7.72)",
+        "42": "3 IPS  DR 13.5 0.259 (6.58)",
+        "43": "4 IPS  DR 9.33 0.482 (12.24)",
+        "44": "4 IPS  DR 11 0.409 (10.39)",
+        "45": "4 IPS  DR 11.5 0.391 (9.93)",
+        "46": "4 IPS  DR 13.5 0.333 (8.46)",
+        "47": "4 IPS  DR 15.5 0.290 (7.37)",
+        "48": "4 IPS  DR 17 0.265 (6.73)",
+        "49": "6 IPS  DR 11 0.602 (15.29)",
+        "50": "6 IPS  DR 11.5 0.576 (14.63)",
+        "51": "6 IPS  DR 13.5 0.491 (12.47)",
+        "52": "6 IPS  DR 17 0.390 (9.91)",
+        "53": "6 IPS  DR 21 0.315 (8.00)",
+        "54": "8 IPS  DR 11 0.784 (19.91)",
+        "55": "8 IPS  DR 11.5 0.750 (19.05)",
+        "56": "8 IPS  DR 13.5 0.639 (16.23)",
+        "57": "8 IPS  DR 17 0.507 (12.90)",
+        "58": "8 IPS  DR 21 0.411 (10.44)",
+        "59": "10 IPS  DR 11 0.977 (24.82)",
+        "60": "10 IPS  DR 11.5 0.935 (23.75)",
+        "61": "10 IPS  DR 13.5 0.796 (20.22)",
+        "62": "10 IPS  DR 17 0.632 (16.05)",
+        "63": "10 IPS  DR 21 0.512 (13.00)",
+        "64": "12 IPS  DR 11 1.159 (29.44)",
+        "65": "12 IPS  DR 11.5 1.109 (28.17)",
+        "66": "12 IPS  DR 13.5 0.994 (23.98)",
+        "67": "12 IPS  DR 17 0.750 (19.05)",
+        "68": "12 IPS  DR 21 0.607 (15.42)",
+        "69": "14 IPS  DR 11 1.273 (32.33)",
+        "70": "14 IPS  DR 13.5 1.037 (26.34)",
+        "71": "14 IPS  DR 17 0.824 (20.93)",
+        "72": "14 IPS  DR 21 0.667 (16.94)",
+        "73": "16 IPS  DR 11 1.455 (36.96)",
+        "74": "16 IPS  DR 13.5 1.185 (30.10)",
+        "75": "16 IPS  DR 17 0.941 (23.90)",
+        "76": "16 IPS  DR 21 0.762 (19.35)",
+        "77": "18 IPS  DR 11 1.636 (41.55)",
+        "78": "18 IPS  DR 13.5 1.333 (33.86)",
+        "79": "18 IPS  DR 17 1.059 (26.90)",
+        "80": "18 IPS  DR 21 0.857 (21.77)",
+        "81": "20 IPS  DR 11 1.818 (46.18)",
+        "82": "20 IPS  DR 13.5 1.481 (37.62)",
+        "83": "20 IPS  DR 17 1.176 (29.87)",
+        "84": "20 IPS  DR 21 0.952 (24.18)",
+        "85": "22 IPS  DR 11 2.000 (50.8)",
+        "86": "22 IPS  DR 13.5 1.630 (41.40)",
+        "87": "22 IPS  DR 17 1.294 (32.87)",
+        "88": "22 IPS  DR 21 1.048 (26.62)",
+        "89": "24 IPS  DR 11 2.182 (55.43)",
+        "90": "24 IPS  DR 13.5 1.778 (45.16)",
+        "91": "24 IPS  DR 17 1.412 (35.86)",
+        "92": "24 IPS  DR 21 1.143 (29.03)",
+        "121": "½ FPT",
+        "122": "¾ FPT",
+        "123": "1 FPT",
+        "124": "1 ¼ FPT",
+        "125": "1 ½ FPT",
+        "126": "2 FPT",
+        "127": "3 FPT",
+        "128": "4 FPT",
+        "129": "6 FPT",
+        "130": "8 FPT",
+        "131": "10 FPT",
+        "132": "12 FPT",
+        "151": "1/8 NPS 0.068 (1.73)",
+        "152": "1/8 NPS 0.095 (2.41)",
+        "153": "1/4 NPS 0.088 (2.24)",
+        "154": "1/4 NPS 0.119 (3.02)",
+        "155": "3/8 NPS 0.091 (2.31)",
+        "156": "3/8 NPS 0.126 (3.20)",
+        "157": "1/2 NPS 0.109 (2.77)",
+        "158": "1/2 NPS 0.147 (3.73)",
+        "159": "3/4 NPS 0.113 (2.87)",
+        "160": "3/4 NPS 0.154 (3.91)",
+        "161": "1 NPS 0.133 (2.87)",
+        "162": "1 NPS 0.179 (4.55)",
+        "163": "1 1/4 NPS 0.140 (3.56)",
+        "164": "1 1/4 NPS 0.191 (4.85)",
+        "165": "1 1/2 NPS 0.145 (3.68)",
+        "166": "",
+        "167": "2 NPS 0.154 (3.91)",
+        "168": "2 NPS 0.218 (5.54)",
+        "169": "3 NPS 0.188 (4.78)",
+        "170": "3 NPS 0.216 (5.49)",
+        "171": "4 NPS 0.156 (3.91)",
+        "172": "4 NPS 0.188 (4.78)",
+        "173": "4 NPS 0.237 (6.02)",
+        "174": "",
+        "175": "6 NPS 0.188 (4.78)",
+        "176": "6 NPS 0.219 (5.56)",
+        "177": "6 NPS 0.250 (6.35)",
+        "178": "6 NPS 0.280 (7.11)",
+        "179": "",
+        "180": "",
+        "181": "8 NPS 0.188 (4.78)",
+        "182": "8 NPS 0.219 (5.56)",
+        "183": "8 NPS 0.250 (6.35)",
+        "184": "8 NPS 0.322 (8.18)",
+        "185": "",
+        "186": "",
+        "187": "10 NPS 0.188 (4.78)",
+        "188": "10 NPS 0.203 (5.16)",
+        "189": "10 NPS 0.219 (5.56)",
+        "190": "10 NPS 0.279 (7.09)",
+        "191": "10 NPS 0.365 (9.27)",
+        "192": "",
+        "193": "12 NPS 0.219 (5.56)",
+        "194": "12 NPS 0.250 (6.35)",
+        "195": "12 NPS 0.312 (7.92)",
+        "196": "12 NPS 0.375 (9.52)",
+        "197": "14 NPS 0.209 (5.30)",
+        "198": "14 NPS 0.250 (6.35)",
+        "199": "14 NPS 0.375 (9.53)",
+        "200": "14 NPS 0.625 (15.88)",
+        "201": "14 NPS 0.687 (17.45)",
+        "202": "14 NPS 0.938 (23.83)",
+        "203": "15 NPS 0.209 (5.30)",
+        "204": "15 NPS 0.250 (6.35)",
+        "205": "16 NPS 0.188 (4.78)",
+        "206": "16 NPS 0.219 (5.56)",
+        "207": "16 NPS 0.225 (5.72)",
+        "208": "16 NPS 0.243 (6.17)",
+        "209": "16 NPS 0.250 (6.35)",
+        "210": "16 NPS 0.260 (6.60)",
+        "211": "16 NPS 0.270 (6.86)",
+        "212": "16 NPS 0.280 (7.11)",
+        "213": "16 NPS 0.312 (7.93)",
+        "214": "16 NPS 0.325 (8.26)",
+        "215": "16 NPS 0.345 (8.76)",
+        "216": "16 NPS 0.357 (9.07)",
+        "217": "16 NPS 0.365 (9.27)",
+        "218": "16 NPS 0.375 (9.53)",
+        "219": "16 NPS 0.406 (10.31)",
+        "220": "16 NPS 0.500 (12.70)",
+        "221": "16 NPS 0.530 (13.46)",
+        "222": "16 NPS 0.550 (13.97)",
+        "223": "16 NPS 0.560 (14.22)",
+        "224": "16 NPS 0.625 (15.88)",
+        "225": "16 NPS 0.656 (16.66)",
+        "226": "16 NPS 0.843 (21.41)",
+        "227": "16 NPS 1.039 (26.39)",
+        "228": "16 NPS 1.125 (28.58)",
+        "229": "16 NPS 1.218 (30.94)",
+        "230": "16 NPS 1.438 (36.53)",
+        "231": "16 NPS 1.594 (40.49)",
+        "232": "18 NPS 0.219 (5.56)",
+        "233": "18 NPS 0.250 (6.35)",
+        "234": "18 NPS 0.312 (7.93)",
+        "235": "18 NPS 0.344 (8.73)",
+        "236": "18 NPS 0.375 (9.53)",
+        "237": "18 NPS 0.406 (10.31)",
+        "238": "18 NPS 0.500 (12.70)",
+        "239": "18 NPS 0.750 (19.05)",
+        "240": "18 NPS 0.938 (23.83)",
+        "241": "18 NPS 1.125 (28.58)",
+        "242": "18 NPS 1.156 (29.36)",
+        "243": "18 NPS 1.375 (34.93)",
+        "244": "18 NPS 2.100 (53.34)",
+        "245": "20 NPS 0.219 (5.56)",
+        "246": "20 NPS 0.234 (5.94)",
+        "247": "20 NPS 0.250 (6.35)",
+        "248": "20 NPS 0.265 (6.73)",
+        "249": "20 NPS 0.281 (7.14)",
+        "250": "20 NPS 0.288 (7.32)",
+        "251": "20 NPS 0.312 (7.93)",
+        "252": "20 NPS 0.328 (8.33)",
+        "253": "20 NPS 0.344 (8.74)",
+        "254": "20 NPS 0.375 (9.53)",
+        "255": "20 NPS 0.406 (10.31)",
+        "256": "20 NPS 0.438 (11.13)",
+        "257": "20 NPS 0.469 (11.91)",
+        "258": "20 NPS 0.500 (12.70)",
+        "259": "22 NPS 0.219 (5.56)",
+        "260": "22 NPS 0.237 (6.02)",
+        "261": "22 NPS 0.250 (6.35)",
+        "262": "22 NPS 0.281 (7.14)",
+        "263": "22 NPS 0.312 (7.93)",
+        "264": "22 NPS 0.344 (8.74)",
+        "265": "22 NPS 0.371 (9.42)",
+        "266": "22 NPS 0.375 (9.53)",
+        "267": "22 NPS 0.432 (10.97)",
+        "268": "22 NPS 0.438 (11.13)",
+        "269": "22 NPS 0.500 (12.70)",
+        "270": "22 NPS 0.562 (14.28)",
+        "271": "22 NPS 0.625 (15.88)",
+        "272": "24 NPS 0.250 (6.35)",
+        "273": "24 NPS 0.265 (6.73)",
+        "274": "24 NPS 0.271 (6.88)",
+        "275": "24 NPS 0.281 (7.14)",
+        "276": "24 NPS 0.289 (7.34)",
+        "277": "24 NPS 0.307 (7.80)",
+        "278": "24 NPS 0.312 (7.93)",
+        "279": "24 NPS 0.320 (8.13)",
+        "280": "24 NPS 0.344 (8.74)",
+        "281": "24 NPS 0.375 (9.53)",
+        "282": "24 NPS 0.382 (9.70)",
+        "283": "24 NPS 0.391 (9.93)",
+        "284": "24 NPS 0.406 (10.31)",
+        "285": "24 NPS 0.500 (12.70)",
+        "286": "24 NPS 0.562 (14.28)",
+        "287": "24 NPS 0.625 (15.88)",
+        "288": "24 NPS 1.531 (38.88)",
+        "289": "26 NPS 0.250 (6.35)",
+        "290": "26 NPS 0.264 (6.71)",
+        "291": "26 NPS 0.278 (7.06)",
+        "292": "26 NPS 0.281 (7.14)",
+        "293": "26 NPS 0.291 (7.39)",
+        "294": "26 NPS 0.312 (7.93)",
+        "295": "26 NPS 0.344 (8.74)",
+        "296": "26 NPS 0.375 (9.53)",
+        "297": "26 NPS 0.438 (11.13)",
+        "298": "26 NPS 0.500 (12.70)",
+        "299": "30 NPS 0.250 (6.35)",
+        "300": "30 NPS 0.281 (7.14)",
+        "301": "30 NPS 0.287 (7.29)",
+        "302": "30 NPS 0.312 (7.93)",
+        "303": "30 NPS 0.328 (8.33)",
+        "304": "30 NPS 0.337 (8.56)",
+        "305": "30 NPS 0.344 (8.74)",
+        "306": "30 NPS 0.350 (8.89)",
+        "307": "30 NPS 0.365 (9.27)",
+        "308": "30 NPS 0.375 (9.53)",
+        "309": "30 NPS 0.391 (9.93)",
+        "310": "30 NPS 0.406 (10.31)",
+        "311": "30 NPS 0.417 (10.59)",
+        "312": "30 NPS 0.421 (10.69)",
+        "313": "30 NPS 0.428 (10.87)",
+        "314": "30 NPS 0.430 (10.92)",
+        "315": "30 NPS 0.437 (11.10)",
+        "316": "30 NPS 0.438 (11.13)",
+        "317": "30 NPS 0.450 (11.43)",
+        "318": "30 NPS 0.469 (11.91)",
+        "319": "30 NPS 0.500 (12.70)",
+        "320": "30 NPS 0.562 (14.28)",
+        "321": "30 NPS 0.563 (14.30)",
+        "322": "30 NPS 0.593 (15.06)",
+        "323": "30 NPS 0.625 (15.88)",
+        "324": "30 NPS 0.750 (19.05)",
+        "325": "32 NPS 0.375 (9.53)",
+        "326": "32 NPS 0.416 (10.57)",
+        "327": "32 NPS 0.438 (11.13)",
+        "328": "32 NPS 0.469 (11.91)",
+        "329": "32 NPS 0.500 (12.70)",
+        "330": "32 NPS 0.524 (13.31)",
+        "331": "32 NPS 0.562 (14.28)",
+        "332": "32 NPS 0.566 (14.38)",
+        "333": "32 NPS 0.600 (15.24)",
+        "334": "32 NPS 0.628 (15.95)",
+        "335": "32 NPS 0.750 (19.05)",
+        "336": "32 NPS 0.754 (19.15)",
+        "337": "32 NPS 0.875 (22.23)",
+        "338": "32 NPS 1.250 (31.75)",
+        "339": "36 NPS 0.312 (7.92)",
+        "340": "36 NPS 0.322 (8.18)",
+        "341": "36 NPS 0.344 (8.74)",
+        "342": "36 NPS 0.375 (9.53)",
+        "343": "36 NPS 0.391 (9.93)",
+        "344": "36 NPS 0.406 (10.31)",
+        "345": "36 NPS 0.422 (10.72)",
+        "346": "36 NPS 0.428 (10.87)",
+        "347": "36 NPS 0.438 (11.13)",
+        "348": "36 NPS 0.453 (11.51)",
+        "349": "36 NPS 0.469 (11.91)",
+        "350": "36 NPS 0.484 (12.29)",
+        "351": "36 NPS 0.500 (12.70)",
+        "352": "36 NPS 0.525 (13.33)",
+        "353": "36 NPS 0.562 (14.28)",
+        "354": "36 NPS 0.594 (15.09)",
+        "355": "36 NPS 0.625 (15.88)",
+        "356": "36 NPS 0.750 (19.05)",
+        "357": "42 NPS 0.375 (9.52)",
+        "358": "42 NPS 0.500 (12.70)",
+        "359": "42 NPS 0.688 (17.48)"
+    },
     "material": {
         "A": "PE2406",
         "B": "PE2708",
@@ -2106,7 +625,7 @@
         }
     },
     "manufacturers": {
-        "0": "Unknown",
+        "00": "Unknown",
         "35": "Industrial Pipe Fittings",
         "73": "Plasson",
         "78": "Torre Gas",

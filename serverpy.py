@@ -2,10 +2,13 @@
 # -*- coding: utf-8 -*-
         
 import cherrypy
-import urllib
+import urllib3
+import requests
+import astm_f2897
+import json
     
 scans = []
-
+url = "https://hooks.airtable.com/workflows/v1/genericWebhook/appyXNoDQSrFR8sIS/wfl8yyvj4U7k9RlME/wtrSYdGh47sPP8Fnu"
 class Scans:
         
   exposed = True
@@ -30,6 +33,9 @@ class Scans:
         format = kwargs["format"]
         
     scans.append((content, format))
+    data = astm_f2897.main(content)
+    x = requests.post(url,dict(data))
+    print(x)
     return ('Append new scan with content: %s, format %s' % (content, format))
         
 if __name__ == '__main__':

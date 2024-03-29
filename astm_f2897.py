@@ -13,7 +13,7 @@
 #manufacturer holds information about them
 import base62
 import datetime
-
+import json
 
 class BC:
     def __init__(self):
@@ -105,17 +105,53 @@ def setBC(string):
     tempBc.setProductionDate(str(base62.decode(str(tempBc.productionDate))))
     tempBc.setComponentSize(tempBc.convertSize(base62.decode(str(tempBc.componentSize))))
     tempBc.setProductionDate(tempBc.convertDate())
-        
-    # print(tempBc.manufacturer)
-    # print(tempBc.lotCode)
-    # print(tempBc.productionDate)
-    # print(tempBc.material)
-    # print(tempBc.componentType)
-    # print(tempBc.componentSize)
-    # print(tempBc.checkDigit)
-    # print(tempBc.barcode)
-    
-    
-bark = 'RW6FDa7d8K8S1Yz0'
-setBC(bark)
+    return tempBc
 
+def retrieve_nested_value(mapping, key_of_interest):
+    hold = mapping
+    mappings = [mapping]
+    while mappings:
+        mapping = mappings.pop()
+        try:
+            items = mapping.items()
+        except AttributeError:
+            # we didn't store a mapping earlier on so just skip that value
+            continue
+
+        for key, value in items:
+            if key == key_of_interest:
+                return (list(hold.keys())[list(hold.values()).index(mapping)], value)
+            else:
+                # type of the value will be checked in the next loop
+                mappings.append(value)
+    
+def getData(obj):
+    f = open('data.json','r')
+    data = json.load(f)
+    dim = data['dimension']
+    mat = data['material']
+    comp = data['componentType']
+    man = data['manufacturers']
+    sizes = obj.componentSize
+    c1 = str(sizes[0])
+    c2 = str(sizes[1])
+    obj.setManufacturer(man[obj.manufacturer])
+    obj.setMaterial(mat[obj.material])
+    obj.setComponentSize((dim[c1],dim[c2]))
+    k = obj.componentType
+    obj.setComponentType(retrieve_nested_value(comp,k))
+    dict = {
+    "manufacturer": obj.manufacturer,
+    "lotCode": obj.lotCode,
+    "productionDate": obj.productionDate,
+    "material": obj.material,
+    "componentType": obj.componentType,
+    "componentSize": obj.componentSize,
+    "barcode": obj.barcode
+}
+    return dict
+    
+def main(string):
+    return getData(setBC(string))
+
+print(main('PE4q8W8DRB121Yh0'))
