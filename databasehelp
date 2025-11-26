@@ -1,0 +1,18 @@
+
+-- create
+CREATE TABLE SL001001234 (
+  scanId INT AUTO_INCREMENT PRIMARY KEY,
+  barcode TEXT NOT NULL,
+  manufacturer TEXT NOT NULL,
+  lotCode TEXT NOT NULL,
+  productionDate TEXT NOT NULL,
+  material TEXT NOT NULL,
+  componentSize TEXT NOT NULL,
+  componentType TEXT NOT NULL
+);
+
+-- insert
+INSERT INTO SL001001234 VALUES (1,"PE4Edi7CZB123Kj0","Performance Pipe","1107896","10/20/2025","PE2708","2 IPS  DR 11 0.216 (5.59), 2 IPS  DR 11 0.216 (5.59)","pipe, Coiled");
+
+-- fetch 
+SELECT * FROM SL001001234;
